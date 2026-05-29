@@ -1,0 +1,56 @@
+/* Leaflet maps */
+
+.leaflet-popup-content-wrapper {
+    overflow-y: scroll;
+    max-height: 20rem;
+}
+
+.leaflet-container a.leaflet-popup-close-button {
+    padding-right: 1rem;
+}
+
+.n-site-tooltip,
+.vsm-site-tooltip,
+.sm-site-tooltip,
+.md-site-tooltip,
+.lg-site-tooltip,
+.tb-site-tooltip {
+    color: black;
+    border: 0.2rem solid;
+    font-size: .9rem;
+}
+
+.n-site-tooltip
+{
+    border-color: #FFDC4F;
+}
+.vsm-site-tooltip
+{
+    border-color: #2ac1db;
+}
+.sm-site-tooltip 
+{
+    border-color: #6f23ba;
+}
+
+.md-site-tooltip {
+    border-color: #FF8000;
+}
+
+.lg-site-tooltip {
+    border-color: #7195E2;
+}
+
+.tb-site-tooltip {
+    border-color: #6FD066;
+}
+
+.btn-leaflet {
+    float: right;
+    margin-bottom: .5rem;
+    margin-top: .5rem;
+}
+
+.content-leaflet-popup {
+    font-size: .9rem;
+}

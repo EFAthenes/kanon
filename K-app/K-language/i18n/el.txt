@@ -1,0 +1,499 @@
+################################################################################
+# CONNEXION PAGE
+################################################################################
+CONNEXION_PAGE_TITLE ==> Καλώς ήρθατε στο 
+CONNEXION_INPUT_USERNAME ==> ΌΝΟΜΑ ΧΡΗΣΤΗ
+CONNEXION_INPUT_PASSWORD ==> ΚΩΔΙΚΟΣ
+CONNEXION_FORGOT_PASSWORD ==> Ξεχάσατε τον κωδικό σας;
+CONNEXION_FORGOT_PASSWORD_LABEL ==> Ξεχάσατε τον Κωδικό
+CONNEXION_BACK_TO_SITE ==> επιστροφή στον ιστότοπο
+CONNEXION_SIGN_IN_BOX_TITLE ==> ΣΥΝΔΕΣΗ
+CONNEXION_SIGN_IN ==> ΣΥΝΔΕΣΗ
+CONNEXION_INPUT_EMAIL ==> ΗΛ. ΤΑΧΥΔΡΟΜΕΙΟ
+CONNEXION_RESET ==> ΕΠΑΝΑΦΟΡΑ
+CONNEXION_BACK_TO_LOGIN ==> Επιστροφή στη σελίδα σύνδεσης
+CONNEXION_LABEL_PANEL ==> ΣΥΝΔΕΣΗ
+CONNEXION_RESEND_PASSWORD_TITLE ==> Επαναποστολή κωδικού πρόσβασης  
+CONNEXION_RESEND_PASSWORD_MESSAGE ==> Καλησπέρα,<br /><br />Ζητήσατε έναν νέο κωδικό πρόσβασης. Κάντε κλικ στον παρακάτω σύνδεσμο για να δημιουργήσετε έναν νέο κωδικό ==> <br /><br />
+CONNEXION_MSG_FORGOT_PASSWORD_OK_TITLE ==> Επιτυχής αλλαγή κωδικού!
+CONNEXION_MSG_FORGOT_PASSWORD_OK_TXT ==> Μπορείτε τώρα να συνδεθείτε με τον νέο σας κωδικό.
+CONNEXION_MSG_FORGOT_PASSWORD_RESEND_TITLE ==> Ξεχάσατε τον κωδικό
+CONNEXION_MSG_FORGOT_PASSWORD_RESEND_TXT ==> Ένας σύνδεσμος έχει σταλεί στο email σας
+CONNEXION_MSG_FORGOT_PASSWORD_RESEND_TXT_ERROR ==> Το email που δώσατε είναι λάθος
+CONNEXION_MSG_FORGOT_PASSWORD_CHANGE_ERROR_TITLE ==> Σφάλμα πληκτρολόγησης 
+CONNEXION_MSG_FORGOT_PASSWORD_CHANGE_ERROR_MSG_1 ==> Το email που πληκτρολογήσατε είναι λάθος
+CONNEXION_MSG_FORGOT_PASSWORD_CHANGE_ERROR_MSG_2 ==> Παρακαλώ πληκτρολογήστε τον κωδικό σας δύο φορές
+CONNEXION_MSG_FORGOT_PASSWORD_CHANGE_ERROR_MSG_3 ==> Οι δύο κωδικοί πρέπει να είναι ίδιοι
+CONNEXION_MSG_FORGOT_PASSWORD_CHANGE_ERROR_MSG_4 ==> Ο κωδικός δεν σέβεται τους κανόνες ασφαλείας. Πρέπει να περιέχει τουλάχιστον ένα γράμμα.
+CONNEXION_MSG_FORGOT_PASSWORD_CHANGE_ERROR_MSG_5 ==> Ο κωδικός δεν σέβεται τους κανόνες ασφαλείας. Πρέπει να περιέχει τουλάχιστον έναν αριθμό.
+CONNEXION_MSG_FORGOT_PASSWORD_CHANGE_ERROR_MSG_6 ==> Ο κωδικός δεν σέβεται τους κανόνες ασφαλείας. Πρέπει να περιέχει τουλάχιστον ένα διακριτικό.
+CONNEXION_MSG_FORGOT_PASSWORD_CHANGE_ERROR_MSG_7 ==> Ο κωδικός δεν σέβεται τους κανόνες ασφαλείας. Πρέπει να περιέχει τουλάχιστον 8 χαρακτήρες.
+CONNEXION_MSG_FORGOT_PASSWORD_CHANGE_NO_ERROR_TITLE ==> Εντάξει:
+CONNEXION_MSG_FORGOT_PASSWORD_CHANGE ==> Ο κωδικός ενημερώθηκε
+CONNEXION_MSG_CONNECT_ERROR_TITLE ==> Αδυναμία σύνδεσης
+CONNEXION_MSG_CONNECT_ERROR_MSG_1 ==> Λάθος email ή κωδικός
+CONNEXION_MSG_CONNECT_ERROR_MSG_2 ==> Και τα δύο πεδία πρέπει να είναι συμπληρωμένα.
+CONNEXION_MSG_CONNECT_ERROR_MSG_3 ==> Πάρα πολλές αποτυχημένες προσπάθειες σύνδεσης. Παρακαλώ περιμένετε λίγα λεπτά.
+CONNEXION_FORGOT_PAGE_TITLE ==> Ξεχάσατε τον κωδικό =>
+CONNEXION_INPUT_PASSWORD_1 ==> ΚΩΔΙΚΟΣ
+CONNEXION_INPUT_PASSWORD_2 ==> ΕΠΑΝΑΛΗΨΗ ΚΩΔΙΚΟΥ
+CONNEXION_INPUT_PASSWORD_1_LABEL ==> Παρακαλώ εισάγετε έναν νέο κωδικό πρόσβασης.
+CONNEXION_INPUT_PASSWORD_2_LABEL ==> Επαναλάβετε τον κωδικό πρόσβασης για επιβεβαίωση.
+CONNEXION_BTN_SUBMIT ==> Υποβολή
+CONNEXION_BTN_SUBMIT_RESEND ==> Επανάσταση
+CONNEXION_BTN_BACK_TO_LOGIN ==> Επιστροφή στη σύνδεση
+```plaintext
+EMAIL_KAPP_FOOTER ==> <br /><br />--<br />Με εκτίμηση,<br /><br />ΓΑΛΛΙΚΗ ΣΧΟΛΗ ΑΘΗΝΩΝ<br /><br />https://catalogue-publications.efa.gr/
+
+########### ΕΠΕΞΕΡΓΑΣΙΑ ΧΡΗΣΤΗ ###########
+KAPP_USER_MODIFICATIONS_ERROR_TITLE ==> Σφάλμα κατά την εισαγωγή
+KAPP_USER_MODIFICATIONS_ERROR_1 ==> Λανθασμένο ID!
+KAPP_USER_MODIFICATIONS_ERROR_2 ==> Λανθασμένο όνομα!
+KAPP_USER_MODIFICATIONS_ERROR_3 ==> Λανθασμένο επώνυμο!
+KAPP_USER_MODIFICATIONS_ERROR_4 ==> Λανθασμένο email!
+KAPP_USER_MODIFICATIONS_ERROR_5 ==> Το email χρησιμοποιείται ήδη!
+KAPP_USER_MODIFICATIONS_OK_TITLE ==> Επιτυχία
+KAPP_USER_MODIFICATIONS_OK_MSG ==> Οι πληροφορίες ενημερώθηκαν επιτυχώς
+KAPP_USER_MODIFICATIONS_PASS_OK_MSG ==> Ο κωδικός πρόσβασης επαναφέρθηκε και απεστάλη στον χρήστη
+KAPP_USER_MODIFICATIONS_ERROR_MSG ==> Δεν έγινε ενημέρωση
+KAPP_USER_LABEL_TITLE ==> Επεξεργασία των πληροφοριών μου
+KAPP_USER_LABEL_BUTTON ==> Αποθήκευση των αλλαγών
+KAPP_USER_LABEL_ID ==> ID
+KAPP_USER_LABEL_PRENOM ==> Όνομα
+KAPP_USER_LABEL_NOM ==> Επώνυμο
+KAPP_USER_LABEL_MAIL ==> Email @
+KAPP_USER_LABEL_PASSOLD ==> Παλιός κωδικός
+KAPP_USER_LABEL_PASS ==> Νέος κωδικός
+KAPP_USER_LABEL_PASSN ==> Επαλήθευση νέου κωδικού
+KAPP_USER_LABEL_LANGUAGE ==> Γλώσσα
+KAPP_USER_LABEL_TIMEZ ==> Ζώνη ώρας
+KAPP_USER_LABEL_CREA ==> Ημερομηνία δημιουργίας
+KAPP_USER_LABEL_MODIF ==> Τελευταία τροποποίηση
+#///////////////////////////////////////////////////////////////////////////////
+
+################################################################################
+# DATATABLE_SIMPLE_TABLE_COMPONENT
+################################################################################
+DATATABLE_SIMPLE_TABLE_COMPONENT_1 ==> Εμφάνιση _MENU_ εγγραφών ανά σελίδα
+DATATABLE_SIMPLE_TABLE_COMPONENT_2 ==> Δεν βρέθηκαν αποτελέσματα.
+DATATABLE_SIMPLE_TABLE_COMPONENT_3 ==> Εμφάνιση σελίδας _PAGE_ από _PAGES_ με σύνολο _TOTAL_ αποτελεσμάτων
+DATATABLE_SIMPLE_TABLE_COMPONENT_4 ==> Καμία καταχώρηση που να ταιριάζει με αυτήν την αναζήτηση
+DATATABLE_SIMPLE_TABLE_COMPONENT_5 ==> (φιλτραρισμένο σε _MAX_ εγγραφές)
+DATATABLE_SIMPLE_TABLE_COMPONENT_6 ==> Αναζήτηση
+DATATABLE_SIMPLE_TABLE_COMPONENT_7 ==> Όλα
+DATATABLE_SIMPLE_TABLE_COMPONENT_PAGINATE_1 ==> Πρώτη
+DATATABLE_SIMPLE_TABLE_COMPONENT_PAGINATE_2 ==> Τελευταία
+DATATABLE_SIMPLE_TABLE_COMPONENT_PAGINATE_3 ==> Επόμενη
+DATATABLE_SIMPLE_TABLE_COMPONENT_PAGINATE_4 ==> Προηγούμενη
+DATATABLE_SIMPLE_TABLE_BUTTON_COPY ==> Αντιγραφή
+DATATABLE_SIMPLE_TABLE_BUTTON_XLS ==> XLS
+DATATABLE_SIMPLE_TABLE_BUTTON_CSV ==> CSV
+DATATABLE_SIMPLE_TABLE_BUTTON_PDF ==> PDF
+DATATABLE_SIMPLE_TABLE_BUTTON_COL ==> Φίλτρο
+#///////////////////////////////////////////////////////////////////////////////
+
+################################################################################
+# SHOW_ALL_TABLES // SHOW_TABLE_CONTENT // SHOW_EDIT_TABLE_ELEMENT
+################################################################################
+SHOW_ALL_TABLES_TITLE ==> Βάση δεδομένων
+SHOW_ALL_TABLES_TITLE_COL1 ==> Προβολή
+SHOW_ALL_TABLES_TITLE_COL2 ==> Επεξεργασία
+SHOW_ALL_TABLES_TITLE_COL3 ==> Όνομα Πίνακα
+SHOW_ALL_TABLES_TITLE_COL4 ==> Αριθμός Στηλών
+SHOW_ALL_TABLES_TITLE_COL5 ==> Αριθμός Εγγραφών
+SHOW_ALL_TABLES_TITLE_LABEL ==> Κατάλογος των πινάκων στη βάση δεδομένων
+SHOW_ALL_TABLES_TITLE_ACTION_1 ==> Προβολή
+SHOW_ALL_TABLES_TITLE_ACTION_2 ==> Τροποποίηση
+SHOW_ALL_TABLES_TITLE_ACTION_1_LONG ==> Προβολή εγγραφών
+SHOW_ALL_TABLES_TITLE_ACTION_2_LONG ==> Τροποποίηση πίνακα
+SHOW_ALL_TABLES_BUTTON_NEW_TABLE ==> Δημιουργία νέου πίνακα
+SHOW_ALL_TABLES_BACK ==> Προηγούμενη Σελίδα
+SHOW_TABLE_CONTENT_TITLE ==> Λίστα εγγραφών
+SHOW_TABLE_CONTENT_ERROR_TITLE ==> Σφάλμα
+SHOW_TABLE_CONTENT_ERROR_MSG_1 ==> Πρέπει να καθορίσετε ένα όνομα πίνακα.
+SHOW_TABLE_CONTENT_ERROR_MSG_2 ==> Ο ακόλουθος πίνακας
+SHOW_TABLE_CONTENT_ERROR_MSG_3 ==> δεν υπάρχει. (Εκτελέστε την εντολή build με το CLI αν ο πίνακας υπάρχει στη βάση δεδομένων)
+SHOW_TABLE_CONTENT_ERROR_MSG_4 ==> Δεν υπάρχουν εγγραφές για τον πίνακα
+SHOW_TABLE_CONTENT_MSG_TITLE ==> Πίνακας
+SHOW_TABLE_CONTENT_LINK_TOOLTIP ==> Επεξεργασία της εγγραφής
+SHOW_TABLE_CONTENT_BUTTON_ADD ==> Προσθήκη στοιχείου
+SHOW_EDIT_TABLE_ELEMENT_NEW_TITLE ==> Νέο στοιχείο
+SHOW_EDIT_TABLE_ELEMENT_TITLE ==> Τροποποίηση στοιχείου
+SHOW_DEL_TABLE_ELEMENT_TITLE ==> Διαγραφή στοιχείου
+SHOW_EDIT_TABLE_ELEMENT_DUPLICATE ==> Αντιγραφή
+SHOW_EDIT_TABLE_ELEMENT_ERROR_TITLE ==> Σφάλμα
+SHOW_EDIT_TABLE_ELEMENT_ERROR_1 ==> Πρέπει να καθορίσετε ένα όνομα πίνακα
+SHOW_EDIT_TABLE_ELEMENT_ERROR_2 ==> Ο πίνακας
+SHOW_EDIT_TABLE_ELEMENT_ERROR_3 ==> δεν υπάρχει
+SHOW_EDIT_TABLE_ELEMENT_ERROR_4 ==> Πρέπει να καθορίσετε ένα αναγνωριστικό (ID)
+SHOW_EDIT_TABLE_ELEMENT_ERROR_5 ==> Η κατηγορία
+SHOW_EDIT_TABLE_ELEMENT_ERROR_6 ==> δεν υπάρχει
+SHOW_EDIT_TABLE_ELEMENT_ERROR_7 ==> Το αντικείμενο με το αναγνωριστικό =>
+SHOW_EDIT_TABLE_ELEMENT_ERROR_8 ==> δεν υπάρχει
+SHOW_EDIT_TABLE_ELEMENT_ERROR_9 ==> Παρουσιάστηκε ένα σφάλμα στη βάση δεδομένων.<br />Παρακαλούμε δοκιμάστε ξανά ή ενημερώστε τον διαχειριστή.
+SHOW_EDIT_TABLE_ELEMENT_ERROR_10 ==> Η εγγραφή δεν τροποποιήθηκε στη βάση δεδομένων.
+SHOW_EDIT_TABLE_ELEMENT_ERROR_11 ==> Η εγγραφή δεν τροποποιήθηκε στη βάση δεδομένων λόγω σφαλμάτων.<br /><br />
+SHOW_EDIT_TABLE_ELEMENT_ERROR_12 ==> Η εγγραφή δεν προστέθηκε στη βάση δεδομένων λόγω σφαλμάτων.<br /><br />
+SHOW_EDIT_TABLE_ELEMENT_ERROR_13 ==> Δεν ήταν δυνατή η αντιγραφή της εγγραφής στη βάση δεδομένων λόγω σφαλμάτων.<br /><br />
+SHOW_EDIT_TABLE_OPTIONS_TITLE ==> Επεξεργασία πίνακα
+SHOW_EDIT_TABLE_OPTIONS_TITLE_1 ==> Εξαγωγή Δεδομένων
+SHOW_EDIT_TABLE_OPTIONS_TITLE_2 ==> Εισαγωγή Δεδομένων
+SHOW_EDIT_TABLE_OPTIONS_TITLE_3 ==> Λειτουργίες Δομής
+SHOW_EDIT_TABLE_OPTIONS_TITLE_4 ==> Επιλογή Πίνακα
+SHOW_EDIT_TABLE_OPTIONS_EXPORT_XLS ==> Εξαγωγή XLS
+SHOW_EDIT_TABLE_OPTIONS_EXPORT_XLS_URL ==> Λήψη αρχείου
+SHOW_EDIT_TABLE_OPTIONS_EXPORT_XLS_COLS ==> Εξαγωγή Στηλών XLS
+SHOW_EDIT_TABLE_OPTIONS_EXPORT_XLS_COLS_URL ==> Λήψη αρχείου
+SHOW_EDIT_TABLE_OPTIONS_EXPORT_XLS_STRUCTURE ==> Εξαγωγή Δομής XLS
+SHOW_EDIT_TABLE_OPTIONS_EXPORT_XLS_STRUCTURE_URL ==> Λήψη αρχείου
+SHOW_EDIT_TABLE_OPTIONS_EXPORT_JSON ==> Εξαγωγή JSON
+SHOW_EDIT_TABLE_OPTIONS_EXPORT_JSON_URL ==> Λήψη αρχείου
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_LABEL ==> Οι εγγραφές θα προσδιοριστούν από το αναγνωριστικό τους (ID) // στήλη 'id' <br /><br />
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS ==> Εισαγωγή εγγραφών από αρχείο XLS
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_2 ==> Ενημέρωση πεδίων
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_URL ==> Μεταφόρτωση αρχείου
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_URL_STRUCTURE ==> Λήψη αρχείου δομής
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_MODIFY_STRUCTURE ==> Τροποποίηση της δομής του πίνακα με μεταφόρτωση ενός αρχείου XLS
+SHOW_EDIT_TABLE_OPTIONS_UPDATE_BY_XLS ==> Ενημέρωση εγγραφών με αρχείο XLS
+SHOW_EDIT_TABLE_OPTIONS_UPDATE_BY_XLS_URL ==> Μεταφόρτωση αρχείου
+SHOW_EDIT_TABLE_OPTIONS_DELETE_BY_XLS ==> Διαγραφή εγγραφών με αρχείο XLS
+SHOW_EDIT_TABLE_OPTIONS_ADD_COLUMN ==> Προσθήκη στήλης
+SHOW_EDIT_TABLE_OPTIONS_REMOVE_COLUMN ==> Αφαίρεση στήλης
+SHOW_EDIT_TABLE_OPTIONS_RENAME_COLUMN ==> Μετονομασία στήλης
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_COLUMNS ==> Εισαγωγή στηλών
+SHOW_EDIT_TABLE_OPTIONS_ACCESS_TO_PAGE ==> Πρόσβαση στη σελίδα
+SHOW_EDIT_TABLE_OPTIONS_RENAME_COLUMN_TITLE ==> Παρακαλούμε επιλέξτε τη στήλη προς μετονομασία
+SHOW_EDIT_TABLE_OPTIONS_RENAME_COLUMN_CHOOSE_COL ==> Όνομα στήλης
+SHOW_EDIT_TABLE_OPTIONS_RENAME_COLUMN_CONDITION ==> Οι κενοί χώροι, η κεφαλαία γράμματα και τα τόνοι δεν επιτρέπονται
+SHOW_EDIT_TABLE_OPTIONS_RENAME_COLUMN_NEW_COL ==> Νέο όνομα
+SHOW_EDIT_TABLE_OPTIONS_RENAME_COLUMN_ACTION ==> Έναρξη μετονομασίας
+SHOW_EDIT_TABLE_OPTIONS_RENAME_COLUMN_LABEL_ERROR ==> Σφάλμα κατά τη μετονομασία
+SHOW_EDIT_TABLE_OPTIONS_RENAME_COLUMN_ERROR_1 ==> Το όνομα της στήλης περιέχει μη υποστηριζόμενους χαρακτήρες!
+SHOW_EDIT_TABLE_OPTIONS_RENAME_COLUMN_ERROR_2 ==> Το όνομα της στήλης είναι άγνωστο!
+SHOW_EDIT_TABLE_OPTIONS_RENAME_COLUMN_ERROR_3 ==> Το όνομα της στήλης χρησιμοποιείται ήδη!
+SHOW_EDIT_TABLE_OPTIONS_RENAME_COLUMN_SUCCESS ==> Επιτυχής μετονομασία στήλης
+SHOW_EDIT_TABLE_OPTIONS_RENAME_TABLE ==> Μετονομασία πίνακα
+SHOW_EDIT_TABLE_OPTIONS_DELETE_TABLE ==> Διαγραφή πίνακα
+SHOW_EDIT_TABLE_OPTIONS_COPY_TABLE ==> Αντιγραφή πίνακα
+SHOW_EDIT_TABLE_OPTIONS_EMPTY_TABLE ==> Άδειασμα πίνακα
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_UPLOAD_TITLE ==> Μεταφόρτωση αρχείου XLS
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_ERROR_TITLE ==> Σφάλμα κατά τη μεταφόρτωση
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_ERROR_1 ==> Το αρχείο δεν περιέχει αρκετές γραμμές
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_ERROR_2 ==> Το αρχείο δεν περιέχει αρκετές στήλες
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_ERROR_3 ==> Το αρχείο περιέχει άγνωστες στήλες =>
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_ERROR_4 ==> Γραμμή
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_ERROR_5 ==> Στήλη
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_ERROR_6 ==> Το αρχείο περιέχει τα παρακάτω σφάλματα => <br />
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_ERROR_7 ==> Σφάλμα στη γραμμή
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_ERROR_8 ==> <br /><br />Δεν έχουν εισαχθεί εγγραφές στη βάση δεδομένων.
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_ERROR_9 ==> Ο αριθμός των στηλών πρέπει να είναι μεγαλύτερος από 0.
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_UPLOAD_SUCCESS_TITLE ==> Η λειτουργία ολοκληρώθηκε
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_UPLOAD_SUCCESS_TEXT ==> Αριθμός στοιχείων που προστέθηκαν στη βάση δεδομένων =>
+SHOW_EDIT_TABLE_OPTIONS_DELETE_BY_XLS_TITLE ==> Μεταφόρτωση αρχείου XLS που περιέχει στήλη 'id' για τις εγγραφές που θα διαγραφούν
+SHOW_EDIT_TABLE_OPTIONS_DELETE_BY_XLS_ERROR_TITLE ==> Σφάλμα κατά τη μεταφόρτωση
+SHOW_EDIT_TABLE_OPTIONS_DELETE_BY_XLS_ERROR_1 ==> Το αρχείο δεν περιέχει αρκετές γραμμές
+SHOW_EDIT_TABLE_OPTIONS_DELETE_BY_XLS_ERROR_2 ==> Το αρχείο δεν περιέχει αρκετές στήλες
+SHOW_EDIT_TABLE_OPTIONS_DELETE_BY_XLS_ERROR_3 ==> Το αρχείο δεν περιέχει στήλη 'id'
+SHOW_EDIT_TABLE_OPTIONS_DELETE_BY_XLS_ERROR_4 ==> Το αρχείο δεν περιέχει πληροφορίες στη στήλη 'id'
+SHOW_EDIT_TABLE_OPTIONS_DELETE_BY_XLS_ERROR_5 ==> Το ID δεν υπάρχει στη βάση δεδομένων =>
+SHOW_EDIT_TABLE_OPTIONS_DELETE_BY_XLS_ERROR_6 ==> στη γραμμή
+SHOW_EDIT_TABLE_OPTIONS_DELETE_BY_XLS_ERROR_7 ==> Σφάλμα για την εγγραφή με id
+SHOW_EDIT_TABLE_OPTIONS_DELETE_BY_XLS_ERROR_8 ==> Το αρχείο περιέχει τα παρακάτω σφάλματα => <br />
+SHOW_EDIT_TABLE_OPTIONS_DELETE_BY_XLS_SUCCESS_TITLE ==> Η λειτουργία ολοκληρώθηκε
+SHOW_EDIT_TABLE_OPTIONS_DELETE_BY_XLS_SUCCESS_TEXT ==> Αριθμός στοιχείων που διαγράφηκαν από τη βάση δεδομένων =>
+SHOW_EDIT_TABLE_OPTIONS_UPDATE_BY_XLS_TITLE ==> Μεταφόρτωση αρχείου XLS που περιέχει στήλη 'id' για τις εγγραφές που θα ενημερωθούν
+SHOW_EDIT_TABLE_OPTIONS_UPDATE_BY_XLS_ERROR_TITLE ==> Σφάλμα κατά τη μεταφόρτωση
+SHOW_EDIT_TABLE_OPTIONS_UPDATE_BY_XLS_ERROR_1 ==> Το αρχείο δεν περιέχει αρκετές γραμμές
+SHOW_EDIT_TABLE_OPTIONS_UPDATE_BY_XLS_ERROR_2 ==> Το αρχείο δεν περιέχει αρκετές στήλες (ελάχιστο 2: 'id' και μία ακόμα)
+SHOW_EDIT_TABLE_OPTIONS_UPDATE_BY_XLS_ERROR_3 ==> Το αρχείο δεν περιέχει στήλη 'id'
+SHOW_EDIT_TABLE_OPTIONS_UPDATE_BY_XLS_ERROR_4 ==> Το αρχείο δεν περιέχει πληροφορίες στη στήλη 'id'
+SHOW_EDIT_TABLE_OPTIONS_UPDATE_BY_XLS_ERROR_5 ==> Το αρχείο περιέχει άγνωστες στήλες =>
+SHOW_EDIT_TABLE_OPTIONS_UPDATE_BY_XLS_ERROR_6 ==> ID δεν υπάρχει στη βάση δεδομένων =>
+SHOW_EDIT_TABLE_OPTIONS_UPDATE_BY_XLS_ERROR_7 ==> Σφάλμα για την εγγραφή στη γραμμή =>
+SHOW_EDIT_TABLE_OPTIONS_UPDATE_BY_XLS_ERROR_8 ==> Γραμμή
+SHOW_EDIT_TABLE_OPTIONS_UPDATE_BY_XLS_ERROR_9 ==> Στήλη
+SHOW_EDIT_TABLE_OPTIONS_UPDATE_BY_XLS_ERROR_10 ==> Το αρχείο περιέχει τα παρακάτω σφάλματα => <br />
+SHOW_EDIT_TABLE_OPTIONS_UPDATE_BY_XLS_ERROR_11 ==> <br /><br />Δεν έχουν ενημερωθεί εγγραφές στη βάση δεδομένων.
+SHOW_EDIT_TABLE_OPTIONS_UPDATE_BY_XLS_SUCCESS_TITLE ==> Η λειτουργία ολοκληρώθηκε
+SHOW_EDIT_TABLE_OPTIONS_UPDATE_BY_XLS_SUCCESS_TEXT ==> Αριθμός στοιχείων που ενημερώθηκαν στη βάση δεδομένων =>
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_MODIFY_STRUCTURE ==> Μεταφόρτωση αρχείου XLS για προσθήκη στηλών
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_MODIFY_STRUCTURE_LABEL ==> Η πρώτη γραμμή περιέχει το όνομα της στήλης, η δεύτερη τον τύπο, η τρίτη είναι προαιρετική και αντιπροσωπεύει το μέγεθος.
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_MODIFY_STRUCTURE_LABEL_TYPES ==> Οι διαθέσιμοι τύποι είναι ==> INTEGER, VARCHAR, TEXT, FLOAT, DOUBLE, BOOL, DATE, DATETIME, TIMESTAMP, TIME, YEAR, ENUM, GEOMETRY, LINESTRING, POLYGON, MULTIPOINT, MULTILINESTRING, RASTER.
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_MODIFY_STRUCTURE_ERROR_1 ==> Το αρχείο δεν περιέχει αρκετές γραμμές
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_MODIFY_STRUCTURE_ERROR_2 ==> Το αρχείο δεν περιέχει αρκετές στήλες (απαιτούνται 3 ==> col_name, col_type, col_length)
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_MODIFY_STRUCTURE_ERROR_3 ==> Το αρχείο περιέχει πεδία που υπάρχουν ήδη στον πίνακα
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_MODIFY_STRUCTURE_ERROR_4 ==> Το αρχείο περιέχει ονόματα πεδίων που δεν είναι συμβατά
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_MODIFY_STRUCTURE_ERROR_5 ==> Το αρχείο περιέχει μη αποδεκτούς τύπους.
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_MODIFY_STRUCTURE_ERROR_6 ==> Το αρχείο περιέχει μη αποδεκτούς μεγέθη.
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_MODIFY_STRUCTURE_ERROR_7 ==> Το αρχείο δεν περιέχει τις απαιτούμενες στήλες ==> col_name, col_type, col_length
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_MODIFY_STRUCTURE_ERROR_8 ==> Σφάλμα κατά την προετοιμασία ενός πεδίου γραμμής
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_MODIFY_STRUCTURE_ERROR_9 ==> Δεν μπορεί να προστεθεί πεδίο
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_MODIFY_STRUCTURE_ERROR_10 ==> Σφάλμα στη βάση δεδομένων.
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_MODIFY_STRUCTURE_TITLE ==> Η λειτουργία ολοκληρώθηκε
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_MODIFY_STRUCTURE_TEXT ==> Αριθμός στηλών που προστέθηκαν στον πίνακα =>
+SHOW_EDIT_TABLE_OPTIONS_REMOVE_COLUMN_TITLE ==> Παρακαλώ επιλέξτε τη στήλη προς διαγραφή
+SHOW_EDIT_TABLE_OPTIONS_REMOVE_COLUMN_NEW_COL ==> Όνομα στήλης
+SHOW_EDIT_TABLE_OPTIONS_REMOVE_COLUMN_ACTION ==> Έναρξη διαγραφής
+SHOW_EDIT_TABLE_OPTIONS_REMOVE_COLUMN_LABEL_ERROR ==> Σφάλμα κατά τη διαγραφή
+SHOW_EDIT_TABLE_OPTIONS_REMOVE_COLUMN_ERROR_1 ==> Άγνωστο όνομα στήλης!
+SHOW_EDIT_TABLE_OPTIONS_REMOVE_COLUMN_SUCCESS ==> Διαγραφή στήλης
+SHOW_EDIT_TABLE_OPTIONS_RENAME_TABLE_TITLE ==> Παρακαλώ εισαγάγετε το νέο όνομα πίνακα
+SHOW_EDIT_TABLE_OPTIONS_RENAME_TABLE_FIELD ==> Όνομα πίνακα
+SHOW_EDIT_TABLE_OPTIONS_RENAME_TABLE_CONDITION ==> Τα κενά, οι κεφαλαίοι χαρακτήρες, οι τόνοι δεν επιτρέπονται.
+SHOW_EDIT_TABLE_OPTIONS_RENAME_TABLE_LABEL_ERROR ==> Σφάλμα κατά τη μετονομασία
+SHOW_EDIT_TABLE_OPTIONS_RENAME_TABLE_ERROR_1 ==> Το όνομα του πίνακα περιέχει μη αποδεκτούς χαρακτήρες!
+SHOW_EDIT_TABLE_OPTIONS_RENAME_TABLE_ERROR_2 ==> Το όνομα του πίνακα χρησιμοποιείται ήδη.
+SHOW_EDIT_TABLE_OPTIONS_RENAME_TABLE_SUCCESS ==> Μετονομασία πίνακα
+SHOW_EDIT_TABLE_OPTIONS_COPY_TABLE_TITLE ==> Παρακαλώ εισαγάγετε το όνομα του πίνακα προορισμού
+SHOW_EDIT_TABLE_OPTIONS_COPY_TABLE_FIELD ==> Όνομα πίνακα
+SHOW_EDIT_TABLE_OPTIONS_COPY_TABLE_CONDITION ==> Τα κενά, οι κεφαλαίο
+SHOW_EDIT_TABLE_OPTIONS_COPY_COLUMN_ACTION ==> Έναρξη αντιγραφής
+SHOW_EDIT_TABLE_OPTIONS_COPY_TABLE_SUCCESS ==> Επιτυχημένη αντιγραφή πίνακα
+SHOW_EDIT_TABLE_OPTIONS_COPY_TABLE_ERROR ==> Σφάλμα κατά την αντιγραφή
+SHOW_EDIT_TABLE_OPTIONS_COPY_TABLE_ERROR_1 ==> Το όνομα του πίνακα περιέχει μη αποδεκτούς χαρακτήρες!
+SHOW_EDIT_TABLE_OPTIONS_COPY_TABLE_ERROR_2 ==> Το όνομα του πίνακα χρησιμοποιείται ήδη.
+SHOW_EDIT_TABLE_OPTIONS_COPY_TABLE_TITLE_2 ==> Θέλετε να αντιγράψετε και τα δεδομένα;
+SHOW_EDIT_TABLE_OPTIONS_COPY_COLUMN_ACTION_2 ==> Έναρξη εισαγωγής δεδομένων
+SHOW_EDIT_TABLE_OPTIONS_DELETE_TABLE_TITLE ==> Θέλετε να διαγράψετε τον πίνακα;
+SHOW_EDIT_TABLE_OPTIONS_DELETE_TABLE_ACTION ==> Έναρξη διαγραφής!
+SHOW_EDIT_TABLE_OPTIONS_DELETE_TABLE_SUCCESS ==> Επιτυχημένη λειτουργία!
+SHOW_EDIT_TABLE_OPTIONS_DELETE_TABLE_SUCCESS_MESSAGE ==> Η διαγραφή του πίνακα πήγε καλά.
+SHOW_EDIT_TABLE_OPTIONS_DELETE_TABLE_ERROR ==> Σφάλμα κατά τη λειτουργία!
+SHOW_EDIT_TABLE_OPTIONS_DELETE_TABLE_SUCCESS_TITLE ==> Επιστροφή στον πίνακα βάσης δεδομένων
+SHOW_EDIT_TABLE_OPTIONS_DELETE_TABLE_SUCCESS_LINK ==> Επιστροφή στον πίνακα βάσης δεδομένων
+SHOW_EDIT_TABLE_OPTIONS_EMPTY_TABLE_TITLE ==> Θέλετε να αδειάσετε τον πίνακα;
+SHOW_EDIT_TABLE_OPTIONS_EMPTY_TABLE_TITLE_2 ==> Ο πίνακας περιέχει προς το παρόν
+SHOW_EDIT_TABLE_OPTIONS_EMPTY_TABLE_TITLE_3 ==> στοιχείο(α).
+SHOW_EDIT_TABLE_OPTIONS_EMPTY_TABLE_ACTION ==> Έναρξη αδειάσματος!
+SHOW_EDIT_TABLE_OPTIONS_EMPTY_TABLE_SUCCESS ==> Επιτυχημένη λειτουργία!
+SHOW_EDIT_TABLE_OPTIONS_EMPTY_TABLE_SUCCESS_MESSAGE ==> Το άδειασμα του πίνακα πήγε καλά.
+SHOW_EDIT_TABLE_OPTIONS_EMPTY_TABLE_ERROR ==> Σφάλμα κατά τη λειτουργία!
+SHOW_EDIT_TABLE_OPTIONS_EMPTY_TABLE_SUCCESS_TITLE ==> Επιστροφή στον πίνακα βάσης δεδομένων
+SHOW_EDIT_TABLE_OPTIONS_EMPTY_TABLE_SUCCESS_LINK ==> Επιστροφή στον πίνακα βάσης δεδομένων
+SHOW_STRUCTURE_TABLE_IN_TABLE_TITLE ==> Τρέχουσα δομή πίνακα
+SHOW_ALL_TABLES_IN_DB_TITLE ==> Λίστα πινάκων στη βάση δεδομένων
+SHOW_EDIT_TABLE_ADD_ELEMENT_TITLE ==> Προστέθηκε Στοιχείο
+SHOW_EDIT_TABLE_MODIFY_TITLE ==> Αποθηκευμένη Τροποποίηση
+SHOW_EDIT_TABLE_MODIFY_1 ==> Το αρχείο έχει διαγραφεί από τη βάση δεδομένων.<br />
+SHOW_EDIT_TABLE_MODIFY_2 ==> Το αρχείο τροποποιήθηκε με επιτυχία στη βάση δεδομένων.<br /><br />Τροποποιημένα δεδομένα =><br />
+SHOW_EDIT_TABLE_MODIFY_3 ==> Το αρχείο προστέθηκε με επιτυχία στη βάση δεδομένων.
+SHOW_EDIT_TABLE_MODIFY_4 ==> Το αρχείο αντιγράφηκε με επιτυχία στη βάση δεδομένων.
+SHOW_EDIT_TABLE_NO_MODIFY_TITLE ==> Χωρίς τροποποίηση
+SHOW_EDIT_TABLE_BUTTON_SAVE ==> Αποθήκευση
+SHOW_EDIT_TABLE_BUTTON_DELETE ==> Διαγραφή
+SHOW_EDIT_TABLE_BUTTON_IMPERSONATE ==> Σύνδεση ως χρήστης
+SHOW_EDIT_TABLE_BUTTON_MSG_SURE ==> Είστε σίγουρος ότι θέλετε να συνεχίσετε;
+SHOW_EDIT_TABLE_BUTTON_MSG_YES ==> Ναι
+SHOW_EDIT_TABLE_BUTTON_MSG_NO ==> Ακύρωση
+SHOW_ALL_TABLES_NEW_TABLE ==> Δημιουργία νέου πίνακα
+SHOW_ALL_TABLES_NEW_TABLE_TITLE ==> Παρακαλώ εισαγάγετε το νέο όνομα πίνακα
+SHOW_ALL_TABLES_NEW_TABLE_LABEL_1 ==> Όνομα πίνακα
+SHOW_ALL_TABLES_NEW_TABLE_LABEL_2 ==> Τα κενά, οι κεφαλαίοι χαρακτήρες, οι τόνοι δεν επιτρέπονται
+SHOW_ALL_TABLES_NEW_TABLE_BUTTON_LABEL ==> Έναρξη δημιουργ
+SHOW_ALL_TABLES_NEW_TABLE_LABEL_ERROR ==> Σφάλμα κατά τη δημιουργία του πίνακα
+SHOW_ALL_TABLES_NEW_TABLE_LABEL_ERROR_1 ==> Το όνομα του πίνακα περιέχει μη αποδεκτούς χαρακτήρες!
+SHOW_ALL_TABLES_NEW_TABLE_LABEL_ERROR_2 ==> Το όνομα του πίνακα χρησιμοποιείται ήδη.
+SHOW_ALL_TABLES_NEW_TABLE_SUCCESS ==> Επιτυχημένη λειτουργία
+SHOW_ALL_TABLES_NEW_TABLE_SUCCESS_1 ==> Ο πίνακας
+SHOW_ALL_TABLES_NEW_TABLE_SUCCESS_2 ==> έχει εισαχθεί με επιτυχία στη βάση δεδομένων
+SHOW_ALL_TABLES_NEW_TABLE_SUCCESS_BUTTON ==> Δείτε τις επιλογές για τον νέο πίνακα
+#///////////////////////////////////////////////////////////////////////////////
+
+################################################################################
+# PRIVILEGES ACTIONS
+################################################################################
+KAPP_USER_COL_GROUPS_TITLE ==> Ομάδες
+KAPP_USER_COL_DELETE_TITLE ==> Διαγραφή Χρήστη
+KAPP_USER_COL_RESET_TITLE ==> Επανάσταλε τον Κωδικό
+KAPP_USER_BTN_RESET_TITLE ==> Επανάσταλε τον κωδικό
+KAPP_USER_LIST_TITLE ==> Κατάλογος Χρηστών
+########### ΕΠΕΞΕΡΓΑΣΙΑ ΟΜΑΔΑΣ ###########
+KAPP_GROUP_LIST_TITLE ==> Κατάλογος Ομάδων
+KAPP_GROUP_MODIFICATIONS_ERROR_TITLE ==> Σφάλμα κατά την εισαγωγή
+KAPP_GROUP_MODIFICATIONS_ERROR_1 ==> Λανθασμένο ID!
+KAPP_GROUP_MODIFICATIONS_ERROR_2 ==> Λανθασμένη Ετικέτα!
+KAPP_GROUP_MODIFICATIONS_ERROR_3 ==> Λανθασμένη Περιγραφή!
+KAPP_GROUP_MODIFICATIONS_OK_TITLE ==> Επιτυχία
+KAPP_GROUP_MODIFICATIONS_OK_MSG ==> Οι πληροφορίες ενημερώθηκαν με επιτυχία
+KAPP_GROUP_MODIFICATIONS_ERROR_MSG ==> Η ενημέρωση δεν πραγματοποιήθηκε
+KAPP_GROUP_LABEL_TITLE ==> Επεξεργασία των πληροφοριών μου
+KAPP_GROUP_LABEL_BUTTON ==> Αποθήκευση των αλλαγών
+KAPP_GROUP_LABEL_ID ==> Ταυτότητα
+KAPP_GROUP_LABEL_LABEL ==> Ετικέτα
+KAPP_GROUP_LABEL_DESCRIPTION ==> Περιγραφή
+KAPP_GROUP_LABEL_CREA ==> Ημερομηνία Δημιουργίας
+KAPP_GROUP_LABEL_MODIF ==> Ημερομηνία Επεξεργασίας
+KAPP_GROUP_COL_DELETE_TITLE ==> Διαγραφή Ομάδας
+KAPP_MENU_PRIVILEGES ==> Δικαιώματα
+KAPP_MENU_USERS ==> Χρήστες
+KAPP_MENU_GROUPS ==> Ομάδες
+KAPP_USER_MODIFICATIONS_MSSG_DELETE_1 ==> Είστε έτοιμος να διαγράψετε το χρήστη Νο.
+KAPP_USER_MODIFICATIONS_MSSG_DELETE_2 ==> Συνέχεια;
+KAPP_USER_MODIFICATIONS_MSSG_RESEND_PASS_1 ==> Είστε έτοιμος να επαναστείλετε τον κωδικό για τον χρήστη Νο.
+KAPP_USER_MODIFICATIONS_MSSG_RESEND_PASS_2 ==> Συνέχεια;
+KAPP_USER_IMPERSONATE_MSSG ==> Θέλετε να μεταβείτε στον λογαριασμό αυτού του ατόμου;
+KAPP_USER_MODIFICATIONS_CONTINUE ==> Συνέχεια
+KAPP_USER_MODIFICATIONS_CANCEL ==> Ακύρωση
+KAPP_CONNECTIONS_LIST_TITLE ==> Ιστορικό συνδέσεων
+KAPP_CONNECTIONS_LIST_TITLE_TILE ==> Ημερομηνίες σύνδεσης των χρηστών με τις διευθύνσεις IP τους
+
+################################################################################
+# GDA ACTIONS
+################################################################################
+GDA_ENTITY ==> Οντότητα
+GDA_TIME_INTER ==> Χρονικό Διάστημα
+GDA_SPECIFIC_FIELD ==> Συγκεκριμένο Πεδίο
+GDA_AUTHOR ==> Συγγραφέας
+GDA_COLLECTION ==> Συλλογή
+GDA_DOMAIN ==> Τομέας
+GDA_MISSION ==> Αποστολή
+GDA_NATURE ==> Φύση
+GDA_COUNTRY ==> Χώρα
+GDA_PERIOD ==> Περίοδος
+GDA_REGION ==> Περιοχή
+GDA_SECTOR ==> Κλάδος
+GDA_SITE ==> Τοποθεσία
+GDA_TAG ==> Ετικέτα
+GDA_TYPE ==> Τύπος
+GDA_INCLUDE ==> Περιλαμβάνει
+GDA_STRICT ==> Αυστηρό
+GDA_BEGIN_WITH ==> Ξεκινά με
+GDA_END_WITH ==> Τελειώνει με
+GDA_YES ==> Ναι
+GDA_NO ==> Όχι
+GDA_BACK_TO_LIST ==> Επιστροφή στη Λίστα
+#///////////////////////////////////////////////////////////////////////////////
+
+################################################################################
+# UPLOAD COMPONENTS
+################################################################################
+COMP_KUPLOAD_ERROR_1 ==> The Upload Folder does not exist =>
+COMP_KUPLOAD_FILE_LABEL ==> Drag // drop a file
+COMP_KUPLOAD_FILES_LABEL ==> Drag // drop files
+COMP_KUPLOAD_EXTENSION_ACCEPTED ==> Accepted extension(s):
+COMP_KUPLOAD_LABEL_START ==> No file to upload at the moment
+COMP_KUPLOAD_BUTTON_START ==> Start uploading
+COMP_KUPLOAD_STATUS_1 ==> Status
+COMP_KUPLOAD_STATUS_2 ==> Pending
+COMP_KUPLOAD_STATUS_3 ==> Uploading in progress...
+COMP_KUPLOAD_STATUS_4 ==> Canceled by the user
+COMP_KUPLOAD_STATUS_5 ==> Upload complete
+COMP_KUPLOAD_ERROR_1 ==> An error occurred, please check the error messages.
+COMP_KUPLOAD_ERROR_2 ==> An error occurred!
+COMP_KUPLOAD_ERROR_3 ==> Please upload files first!!
+#///////////////////////////////////////////////////////////////////////////////
+
+################################################################################
+# GENERIC ACTIONS
+################################################################################
+GA_OPE_TERMINATE ==> Η λειτουργία ολοκληρώθηκε με επιτυχία
+GA_OPE_DELETE_SUCCESS ==> Διαγραφή πραγματοποιήθηκε με επιτυχία!
+GA_OPE_DELETE_ERROR ==> Σφάλμα κατά τη διαγραφή:
+GA_OPE_DELETE_ERROR_USED ==> Το στοιχείο χρησιμοποιείται ακόμα, δεν μπορείτε να το διαγράψετε. Πίνακας =>
+GA_OPE_ID ==> Στοιχείο με αναγνωριστικό =>
+GA_OPE_NOT_FOUND ==> δεν βρέθηκε!
+GA_OPE_BACK_TO_LIST ==> Πίσω στη λίστα!
+GA_OPE_ERROR ==> Σφάλμα
+GA_OPE_INFORMATION ==> Πληροφορίες
+GA_OPE_NOT_CORRECT ==> δεν είναι σωστό!
+GA_OPE_FIELD ==> Το πεδίο =>
+GA_OPE_NOT_EMPTY ==> δεν μπορεί να είναι κενό!
+GA_OPE_FIELDS ==> Τα πεδία
+GA_OPE_NOT_EMPTIES ==> δεν μπορούν να είναι κενά!
+GA_OPE_SUPERIOR_ZERO ==> πρέπει να είναι μεγαλύτερο από το μηδέν!
+GA_OPE_NO_MODIFICATION_DETECTED ==> Δεν ανιχνεύθηκε καμία τροποποίηση.
+GA_OPE_TERMINATE ==> Η λειτουργία ολοκληρώθηκε με επιτυχία
+GA_OPE_EDIT ==> Επεξεργασία
+GA_OPE_BACK_PAGE ==> Προηγούμενη σελίδα
+GA_OPE_MODIFY ==> Τροποποίηση
+GA_OPE_SAVE ==> Αποθήκευση
+KAPP_MENU_SYSTEM ==> Σύστημα
+KAPP_MENU_CMS ==> CMS
+
+################################################################################
+# LANGUAGE UI
+################################################################################
+LA_TITLE ==> Ρυθμίσεις γλώσσας
+
+################################################################################
+# KCMS Manage
+################################################################################
+
+KCMS_MANAGE_TITLE ==> Διαχείριση CMS
+KCMS_MANAGE_LABEL ==> Επιλέξτε τον τύπο γραφικής οντότητας που θέλετε να επεξεργαστείτε:
+
+# Σελίδα προτύπων
+KTEMPLATE_TITLE ==> Διαχείριση προτύπων
+KTEMPLATE_CREATION ==> Προσθήκη προτύπου
+KTEMPLATE_BTN_COPY ==> Αντιγραφή
+KTEMPLATE_BTN_DEL ==> Διαγραφή
+KTEMPLATE_BTN_REN ==> Μετονομασία
+KTEMPLATE_BTN_APPLY ==> Εφαρμογή
+KTEMPLATE_BTN_SUCCESS ==> Εφαρμόστηκε!
+KTEMPLATE_BTN_MODIFY ==> Επεξεργασία
+KTEMPLATE_TAB_COL_NAME ==> Όνομα
+KTEMPLATE_TAB_COL_ACTIONS ==> Ενέργειες
+KTEMPLATE_TAB_COL_SELECTION ==> Επιλογή
+
+# Pop up 
+KTEMPLATE_POP_UP_COPY ==> Θέλετε να αντιγράψετε αυτό το αρχείο;
+KTEMPLATE_POP_UP_DELETE ==> Θέλετε να το διαγράψετε;
+KTEMPLATE_POP_UP_NAME ==> Θέλετε να μετονομάσετε το πρότυπο;
+KTEMPLATE_POP_UP_ACTIVATE ==> Θέλετε να ενεργοποιήσετε αυτό το πρότυπο;
+KTEMPLATE_ANSWER_YES ==> Ναι
+KTEMPLATE_ANSWER_NO ==> Όχι
+
+# Σελίδα δημιουργίας προτύπου
+KTEMPLATE_TITLE_CREATION ==> Δημιουργία προτύπων
+KTEMPLATE_NAME ==> Όνομα προτύπου:
+KTEMPLATE_EMPTY_NAME ==> Κενό όνομα αρχείου
+KTEMPLATE_EXISTING ==> Το πρότυπο υπάρχει ήδη.
+KTEMPLATE_SUCCESS_TEMPLATE ==> Το πρότυπο δημιουργήθηκε με επιτυχία.
+KTEMPLATE_ERROR_NAME_TEMPLATE ==> Σφάλμα κατά τη δημιουργία του προτύπου.
+
+# Σελίδα μετονομασίας
+KTEMPLATE_NEW_COPY_NAME ==> Νέο όνομα προτύπου:
+KTEMPLATE_TITLE_RENAME ==> Μετονομασία προτύπου
+KTEMPLATE_NO_TEMPLATE_SELECTED ==> Δεν έχει επιλεγεί πρότυπο για μετονομασία
+KTEMPLATE_NEW_NAME ==> Το νέο όνομα δεν μπορεί να είναι κενό.
+KTEMPLATE_EXISTED_NAME_TEMPLATE ==> Υπάρχει ήδη πρότυπο με αυτό το όνομα.
+KTEMPLATE_NO_EXISTING ==> Το πρότυπο δεν υπάρχει.
+KTEMPLATE_SUCCESS_RENAME ==> Το πρότυπο μετονομάστηκε με επιτυχία.
+
+# Σελίδα αντιγραφής
+KTEMPLATE_TITLE_COPY ==> Αντιγραφή προτύπων
+KTEMPLATE_ERROR_COPY ==> Σφάλμα κατά την αντιγραφή:
+KTEMPLATE_NEW_COPY_NAME ==> Νέο όνομα προτύπου:
+KTEMPLATE_NO_COPY_SELECTED ==> Δεν έχει επιλεγεί πρότυπο για αντιγραφή.
+KTEMPLATE_SUCCESS_COPY ==> Το πρότυπο αντιγράφηκε με επιτυχία σε
+
+# Σελίδα διαγραφής
+KTEMPLATE_TITLE_DELETE ==> Διαγραφή προτύπων
+KTEMPLATE_SUCCESS_DELETED_FILE ==> Αυτό το πρότυπο διαγράφηκε με επιτυχία
+KTEMPLATE_DELETE_DOESNT_EXIST_ERROR ==> Σφάλμα κατά τη διαγραφή του προτύπου, επειδή ο φάκελος δεν υπάρχει πλέον
+KTEMPLATE_DELETE_ERROR ==> Σφάλμα κατά τη διαγραφή του προτύπου
+
+# Όλες οι σελίδες προτύπων
+KTEMPLATE_PREVIOUS_PAGE ==> Προηγούμενη σελίδα
+KTEMPLATE_CONFIRM_BUTTON ==> Επιβεβαίωση
+KTEMPLATE_FILTER_NAME ==> Χρησιμοποιήστε μόνο γράμματα, αριθμούς, παύλες ή κάτω παύλες...
+
+# Σελίδα τροποποίησης, επεξεργασίας και αποθήκευσης
+KTEMPLATE_MODIFICATIONS_TITLE ==> Τροποποίηση προτύπων
+KTEMPLATE_CONTENT ==> Περιεχόμενο προτύπου:
+KTEMPLATE_NONE_SELECTED_FILE ==> Δεν έχει επιλεγεί φάκελος προτύπου.
+NONE_SELECTED_TEMPLATE_NAME ==> Δεν έχει επιλεγεί όνομα προτύπου.
+NONE_CONTENT_FILE ==> Δεν βρέθηκε περιεχόμενο αρχείου.
+NOT_FOUND_TEMPLATE ==> Το αρχείο δεν βρέθηκε στο πρότυπο
+SAVING_FILE ==> Αποθήκευση προτύπου
+ERROR_SAVE_FILE ==> Σφάλμα κατά την αποθήκευση του αρχείου.
+SUCCESS_SAVE_FILE ==> Το αρχείο αποθηκεύτηκε με επιτυχία!
+NONE_FILE_SELECTED ==> Δεν έχει επιλεγεί αρχείο προτύπου.
+SAVE_BUTTON ==> Αποθήκευση
+EDIT_FILE_TEMPLATE ==> Επεξεργασία αρχείου προτύπου
+
+# Σελίδα ενεργοποίησης 
+KTEMPLATE_TITLE_ACTIVATE ==> Ενεργοποίηση προτύπου
+KTEMPLATE_INVALID_FILE ==> Το επιλεγμένο πρότυπο δεν υπάρχει ή δεν είναι έγκυρο.
+KTEMPLATE_NONE_ACTIVATED ==> Δεν έχει ενεργοποιηθεί κανένα πρότυπο
+KTEMPLATE_SUCCESS_ACTIVATION ==> Το πρότυπο ενεργοποιήθηκε με επιτυχία

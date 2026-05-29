@@ -1,0 +1,127 @@
+<?php
+/*
+ * @license AGPL-3.0
+ * 
+ * @copyright Copyright (c) 2026 EFA, Ecole française d'athènes, EFAthenes.
+ *
+ * @author Louis Mulot <louis.mulot@efa.gr>
+ * 
+ * This code is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Affero General Public License, version 3,
+ * as published by the Free Software Foundation.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ * GNU Affero General Public License for more details.
+ *
+ * You should have received a copy of the GNU Affero General Public License, version 3,
+ * along with this program. If not, see <http://www.gnu.org/licenses/>
+ * 
+ */
+declare(strict_types=1);
+//require_once '../K-utils/KFile.class.php';
+//require_once('../K-manager/ParamManager.class.php');
+//require_once('IntranetMail.class.php');
+//
+//require_once'../K-page/KPage.class.php';
+
+require_once dirname(__FILE__).'/../include.php';
+
+//ParamManager::getInstance()->email_transport="smtp";
+//ParamManager::getInstance()->email_mail="mail.test@efa.gr";  
+//ParamManager::getInstance()->email_username="EFANET\mail.test";
+//ParamManager::getInstance()->email_password="Bouillab31Noumop56-2";
+//// STORING EMAIL ~ IF EMPTY IS NOT STORED
+//ParamManager::getInstance()->email_server="{email.efa.gr:993/imap/ssl/novalidate-cert}";
+//// SENDING PARAM ~ IF EMPTY NOTHING IS SEND
+//ParamManager::getInstance()->email_port="25";
+//ParamManager::getInstance()->email_encryption="tls";
+//ParamManager::getInstance()->email_auth_mode="login";
+//ParamManager::getInstance()->email_verify_peer="false";
+//ParamManager::getInstance()->email_smtp_server="email.efa.gr";
+//#######################
+
+$mail = new KMail();
+//$r="louis.mulot@efa.gr";
+//$r="christophe.philippe@hotmail.com";
+//$r="louis.mulot@efa.gr";
+//$r="informatique@efa.gr";
+//$s="archimage_commande@efa.gr";
+//if($mail->sendEmailAccountCreated($r,"mot_de_passe"))
+//{
+//    echo "SENT!!!";
+//}
+//$mail->sendEmailAccountCreatedByAdmin($r,"mot_de_passe");
+//$mail->sendEmailAccountForgot($r,"mot_de_passe");
+//$mail->sendEmailAccountResend($r,"mot_de_passe");
+//$mail->sendEmailContactUs($r,"mot_de_passe");  
+////
+////
+//$mail->sendEmailOrderComfirm($r,"N_2012_10_40");
+//$mail->sendEmailDevis($r,"100","N_2011_09_01");
+//$mail->sendEmailOrderRefused($r,"N_2011_09_02"); 
+//$mail->sendEmailDelivery($r,"N_2011_09_01","key");
+//$mail->sendHTMLEmailWithAttachment("salut c'est pas <a href=\"www.archimage.efa.gr\"> moi! </a>",$s,$r,"Les elfes Power","/home/louis/site/archimage_mail/Archimage_Bon_Commande.doc");
+
+//exit();
+//$seconf=date("i:s");
+//
+//if($mail->sendHTMLEmail(" test a partir du serveur 48+!!!<br /> ".$seconf,"archimage.commande@efa.gr","info.test@efa.gr","test boite Email ".date("Y-m-d H:i:s")))
+//{
+//    
+//    echo "<p>SALUT </p>";
+//    
+//}
+//
+//else
+//{
+//    echo "<p>FAIL </p>";
+//}
+//$i=3581;
+//
+//if($mail->sendHTMLEmail( "trouve ce qui ne va pas <br /> et oui!!! <br /><br /> <a href=\"www.google.gr\"> clique la </a>", "info.test@efa.gr", "louis.mulot@efa.gr",  " To messagov ".$i))
+//{
+//    echo "SENT \n\n";
+//}
+
+
+//if(isEmail("vassiliki.barlou@culture.hu-berlin.de"))
+//{
+//    echo "OK";
+//}
+//else
+//{
+//    echo "NOT OK";
+//}
+$mail->setStoreEmail(false);
+$mail->setExternalScript(false);
+
+//
+$options=[
+    "email_transport"=>"smtp",
+    "email_mail"=>"mail.test@efa.gr",  
+    "email_username"=>"EFANET\mail.test",
+    "email_password"=>"Bouillab31Noumop56-2",
+    "email_server"=>"{email.efa.gr:993/imap/ssl/novalidate-cert}",
+    "email_port"=>"587",
+    "email_encryption"=>"ssl",   
+	"email_auth_mode"=>"login",    
+	"email_verify_peer"=>"false",
+    "email_smtp_server"=>"email.efa.gr",    
+    "log_dir_mail"=>"/home/adminefa/workspace/www/louis/logs/",
+    "server_name"=>"Test Mail"
+];
+
+$mail->initByArray($options);
+
+
+if($mail->sendNormalEmail("louis.mulot@efa.gr","le sujet","le content"))
+{
+    echo "OK";
+}
+else
+{
+    echo "KO";
+}
+?>

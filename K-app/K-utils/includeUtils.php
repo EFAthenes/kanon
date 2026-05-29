@@ -1,0 +1,16 @@
+<?php
+require_once'KFile.class.php';
+require_once'KRandom.class.php';
+require_once'KTimer.class.php';
+require_once'KURL.class.php';
+require_once'KPurifier.class.php';
+require_once'KStringUtilities.php';
+require_once'KFunction.php';
+require_once'printToFile.class.php';
+require_once'Klog.class.php';
+require_once'KForm.class.php';
+require_once'KInput.class.php';
+require_once'KIncludeDirectory.class.php';
+require_once'KRemoteAddress.class.php';
+require_once'KRemoteFile.class.php';
+require_once'KConnectionsAttempts.class.php';

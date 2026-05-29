@@ -1,0 +1,38 @@
+<?php
+/*
+ * @license AGPL-3.0
+ * 
+ * @copyright Copyright (c) 2026 EFA, Ecole française d'athènes, EFAthenes.
+ *
+ * @author Louis Mulot <louis.mulot@efa.gr>
+ * 
+ * This code is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Affero General Public License, version 3,
+ * as published by the Free Software Foundation.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ * GNU Affero General Public License for more details.
+ *
+ * You should have received a copy of the GNU Affero General Public License, version 3,
+ * along with this program. If not, see <http://www.gnu.org/licenses/>
+ * 
+ */
+declare(strict_types=1);
+class NbspComponent extends HTMLComponent
+{
+    public function __construct(int $number=1)
+    {
+        if($number<1)
+        {
+            $number=1;
+        }
+        $string="";
+        for($i=0;$i<$number;$i++)
+        {
+            $string.="&nbsp;";
+        }
+        parent::__construct($string);
+    }
+}

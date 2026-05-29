@@ -1,0 +1,499 @@
+################################################################################
+# PAGINA DI ACCESSO
+################################################################################
+CONNEXION_PAGE_TITLE ==> Benvenuto sul sito di  
+CONNEXION_INPUT_USERNAME ==> UTENTE
+CONNEXION_INPUT_PASSWORD ==> PASSWORD
+CONNEXION_FORGOT_PASSWORD ==> Password dimenticata?
+CONNEXION_FORGOT_PASSWORD_LABEL ==> Password dimenticata
+CONNEXION_BACK_TO_SITE ==> Torna al sito
+CONNEXION_SIGN_IN_BOX_TITLE ==> ACCEDI
+CONNEXION_SIGN_IN ==> Accedi
+CONNEXION_INPUT_EMAIL ==> EMAIL
+CONNEXION_RESET ==> REINVIA
+CONNEXION_BACK_TO_LOGIN ==> Torna alla pagina di accesso
+CONNEXION_LABEL_PANEL ==> ACCEDI
+CONNEXION_RESEND_PASSWORD_TITLE ==> Password dimenticata sulla piattaforma
+CONNEXION_RESEND_PASSWORD_MESSAGE ==> Ciao,<br /><br />Hai richiesto la modifica della password. Per cambiarla, clicca sul link qui sotto per rigenerare la tua password ==> <br /><br />
+CONNEXION_MSG_FORGOT_PASSWORD_OK_TITLE ==> Modifica della password riuscita!
+CONNEXION_MSG_FORGOT_PASSWORD_OK_TXT ==> Ora puoi accedere con le tue nuove credenziali.
+CONNEXION_MSG_FORGOT_PASSWORD_RESEND_TITLE ==> Password dimenticata
+CONNEXION_MSG_FORGOT_PASSWORD_RESEND_TXT ==> Un link è stato inviato alla tua email!
+CONNEXION_MSG_FORGOT_PASSWORD_RESEND_TXT_ERROR ==> L'email inserita non è corretta!
+CONNEXION_MSG_FORGOT_PASSWORD_CHANGE_ERROR_TITLE ==> Errore nell'inserimento
+CONNEXION_MSG_FORGOT_PASSWORD_CHANGE_NO_ERROR_TITLE ==> Ok :
+CONNEXION_MSG_FORGOT_PASSWORD_CHANGE ==> Password aggiornata
+CONNEXION_MSG_FORGOT_PASSWORD_CHANGE_ERROR_MSG_1 ==> L'email inserita non è corretta!
+CONNEXION_MSG_FORGOT_PASSWORD_CHANGE_ERROR_MSG_2 ==> La password deve essere inserita due volte!
+CONNEXION_MSG_FORGOT_PASSWORD_CHANGE_ERROR_MSG_3 ==> Le password devono coincidere!
+CONNEXION_MSG_FORGOT_PASSWORD_CHANGE_ERROR_MSG_4 ==> La password non rispetta le norme di sicurezza. Deve contenere almeno una lettera!
+CONNEXION_MSG_FORGOT_PASSWORD_CHANGE_ERROR_MSG_5 ==> La password non rispetta le norme di sicurezza. Deve contenere almeno un numero!
+CONNEXION_MSG_FORGOT_PASSWORD_CHANGE_ERROR_MSG_6 ==> La password non rispetta le norme di sicurezza. Deve contenere almeno un carattere speciale!
+CONNEXION_MSG_FORGOT_PASSWORD_CHANGE_ERROR_MSG_7 ==> La password non rispetta le norme di sicurezza. Deve essere di almeno 8 caratteri.
+CONNEXION_MSG_CONNECT_ERROR_TITLE ==> Connessione impossibile
+CONNEXION_MSG_CONNECT_ERROR_MSG_1 ==> Email o password errati!
+CONNEXION_MSG_CONNECT_ERROR_MSG_2 ==> Entrambi i campi devono essere compilati obbligatoriamente!
+CONNEXION_MSG_CONNECT_ERROR_MSG_3 ==> Troppi tentativi di accesso non riusciti. Attendere qualche minuto.
+CONNEXION_FORGOT_PAGE_TITLE ==> Password dimenticata => 
+CONNEXION_INPUT_PASSWORD_1 ==> PASSWORD
+CONNEXION_INPUT_PASSWORD_2 ==> VERIFICA PASSWORD
+CONNEXION_INPUT_PASSWORD_1_LABEL ==> Inserisci la tua password
+CONNEXION_INPUT_PASSWORD_2_LABEL ==> Reinserisci la tua password
+CONNEXION_FORGOT_PAGE_TITLE_2 ==> Inserisci una nuova password
+CONNEXION_FORGOT_PAGE_TITLE_3 ==> La password deve contenere almeno 8 caratteri, inclusa una maiuscola, un numero e un carattere speciale.
+CONNEXION_FORGOT_PAGE_BUTTON ==> Convalida
+
+EMAIL_KAPP_FOOTER ==> <br /><br />--<br />Cordiali saluti,<br /><br />&#201;COLE FRAN&#199;AISE D&#39;ATH&#200;NES<br /><br />https://chronique.efa.gr/
+
+########### MODIFICA UTENTE ###########
+KAPP_USER_MODIFICATIONS_ERROR_TITLE ==> Errore durante l'inserimento
+KAPP_USER_MODIFICATIONS_ERROR_1 ==> ID non valido!
+KAPP_USER_MODIFICATIONS_ERROR_2 ==> Nome non valido!
+KAPP_USER_MODIFICATIONS_ERROR_3 ==> Cognome non valido!
+KAPP_USER_MODIFICATIONS_ERROR_4 ==> Email non valida!
+KAPP_USER_MODIFICATIONS_ERROR_5 ==> Email già in uso!
+KAPP_USER_MODIFICATIONS_OK_TITLE ==> Successo
+KAPP_USER_MODIFICATIONS_OK_MSG ==> Le informazioni sono state aggiornate correttamente
+KAPP_USER_MODIFICATIONS_PASS_OK_MSG ==> Password reimpostata e inviata all'utente
+KAPP_USER_MODIFICATIONS_ERROR_MSG ==> L'aggiornamento non è stato completato
+KAPP_USER_LABEL_TITLE ==> Modifica le mie informazioni
+KAPP_USER_LABEL_BUTTON ==> Salva modifiche
+KAPP_USER_LABEL_ID ==> Identificativo
+KAPP_USER_LABEL_PRENOM ==> Nome
+KAPP_USER_LABEL_NOM ==> Cognome
+KAPP_USER_LABEL_MAIL ==> Email @
+KAPP_USER_LABEL_PASSOLD ==> Vecchia password
+KAPP_USER_LABEL_PASS ==> Nuova password
+KAPP_USER_LABEL_PASSN ==> Ripeti la nuova password
+KAPP_USER_LABEL_LANGUAGE ==> Lingua
+KAPP_USER_LABEL_TIMEZ ==> Fuso orario
+KAPP_USER_LABEL_CREA ==> Data di creazione
+KAPP_USER_LABEL_MODIF ==> Data di modifica
+#///////////////////////////////////////////////////////////////////////////////
+
+################################################################################
+# COMPONENTE TABELLA SEMPLICE
+################################################################################
+DATATABLE_SIMPLE_TABLE_COMPONENT_1 ==> Mostra _MENU_ record per pagina
+DATATABLE_SIMPLE_TABLE_COMPONENT_2 ==> Nessun risultato trovato.
+DATATABLE_SIMPLE_TABLE_COMPONENT_3 ==> Mostrando la pagina _PAGE_ di _PAGES_ con _TOTAL_ risultati
+DATATABLE_SIMPLE_TABLE_COMPONENT_4 ==> Nessun record corrisponde alla ricerca
+DATATABLE_SIMPLE_TABLE_COMPONENT_5 ==> (filtrato su _MAX_ record)
+DATATABLE_SIMPLE_TABLE_COMPONENT_6 ==> Ricerca
+DATATABLE_SIMPLE_TABLE_COMPONENT_7 ==> Tutti
+DATATABLE_SIMPLE_TABLE_COMPONENT_PAGINATE_1 ==> Prima
+DATATABLE_SIMPLE_TABLE_COMPONENT_PAGINATE_2 ==> Ultima
+DATATABLE_SIMPLE_TABLE_COMPONENT_PAGINATE_3 ==> Successiva
+DATATABLE_SIMPLE_TABLE_COMPONENT_PAGINATE_4 ==> Precedente
+DATATABLE_SIMPLE_TABLE_BUTTON_COPY ==> Copia
+DATATABLE_SIMPLE_TABLE_BUTTON_XLS ==> XLS
+DATATABLE_SIMPLE_TABLE_BUTTON_CSV ==> CSV
+DATATABLE_SIMPLE_TABLE_BUTTON_PDF ==> PDF
+DATATABLE_SIMPLE_TABLE_BUTTON_COL ==> Filtra
+#///////////////////////////////////////////////////////////////////////////////
+
+################################################################################
+# SHOW_ALL_TABLES // SHOW_TABLE_CONTENT // SHOW_EDIT_TABLE_ELEMENT
+################################################################################
+SHOW_ALL_TABLES_TITLE ==> Database
+SHOW_ALL_TABLES_TITLE_COL1 ==> Consultare
+SHOW_ALL_TABLES_TITLE_COL2 ==> Modificare
+SHOW_ALL_TABLES_TITLE_COL3 ==> Nome della tabella
+SHOW_ALL_TABLES_TITLE_COL4 ==> Numero di colonne
+SHOW_ALL_TABLES_TITLE_COL5 ==> Numero di record
+SHOW_ALL_TABLES_TITLE_LABEL ==> Elencare le tabelle del database
+SHOW_ALL_TABLES_TITLE_ACTION_1 ==> Consultare
+SHOW_ALL_TABLES_TITLE_ACTION_2 ==> Modificare
+SHOW_ALL_TABLES_TITLE_ACTION_1_LONG ==> Consultare i record
+SHOW_ALL_TABLES_TITLE_ACTION_2_LONG ==> Modificare la tabella
+SHOW_ALL_TABLES_BUTTON_NEW_TABLE ==> Creare una nuova tabella
+SHOW_ALL_TABLES_BACK ==> Pagina precedente
+SHOW_TABLE_CONTENT_TITLE ==> Elencare i record
+SHOW_TABLE_CONTENT_ERROR_TITLE ==> Errore
+SHOW_TABLE_CONTENT_ERROR_MSG_1 ==> Il nome di una tabella deve essere inviato.
+SHOW_TABLE_CONTENT_ERROR_MSG_2 ==> La seguente tabella
+SHOW_TABLE_CONTENT_ERROR_MSG_3 ==> non esiste. (ESEGUI il comando build con il CLI se la tabella è presente nel database)
+SHOW_TABLE_CONTENT_ERROR_MSG_4 ==> Nessun record presente nella tabella 
+SHOW_TABLE_CONTENT_MSG_TITLE ==> Tabella
+SHOW_TABLE_CONTENT_LINK_TOOLTIP ==> Modificare il record
+SHOW_TABLE_CONTENT_BUTTON_ADD ==> Aggiungere un elemento
+SHOW_EDIT_TABLE_ELEMENT_NEW_TITLE ==> Nuovo elemento
+SHOW_EDIT_TABLE_ELEMENT_TITLE ==> Modificare un elemento
+SHOW_DEL_TABLE_ELEMENT_TITLE ==> Eliminare un elemento
+SHOW_EDIT_TABLE_ELEMENT_DUPLICATE ==> Duplicare
+SHOW_EDIT_TABLE_ELEMENT_ERROR_TITLE ==> Errore
+SHOW_EDIT_TABLE_ELEMENT_ERROR_1 ==> È necessario inviare un nome di tabella
+SHOW_EDIT_TABLE_ELEMENT_ERROR_2 ==> La tabella
+SHOW_EDIT_TABLE_ELEMENT_ERROR_3 ==> non esiste.
+SHOW_EDIT_TABLE_ELEMENT_ERROR_4 ==> È necessario inviare un ID
+SHOW_EDIT_TABLE_ELEMENT_ERROR_5 ==> La classe
+SHOW_EDIT_TABLE_ELEMENT_ERROR_6 ==> non esiste.
+SHOW_EDIT_TABLE_ELEMENT_ERROR_7 ==> L'oggetto con ID => 
+SHOW_EDIT_TABLE_ELEMENT_ERROR_8 ==> non esiste.
+SHOW_EDIT_TABLE_ELEMENT_ERROR_9 ==> Si è verificato un errore nel database.<br /> Riprova o contatta l'amministratore.
+SHOW_EDIT_TABLE_ELEMENT_ERROR_10 ==> Il record non è stato modificato nel database.
+SHOW_EDIT_TABLE_ELEMENT_ERROR_11 ==> Il record non è stato modificato nel database a causa di errori.<br /><br />
+SHOW_EDIT_TABLE_ELEMENT_ERROR_12 ==> Il record non è stato aggiunto al database a causa di errori.<br /><br />
+SHOW_EDIT_TABLE_ELEMENT_ERROR_13 ==> Il record non è stato duplicato nel database a causa di errori.<br /><br />
+SHOW_EDIT_TABLE_OPTIONS_TITLE ==> Modificare la tabella
+SHOW_EDIT_TABLE_OPTIONS_TITLE_1 ==> Esportazione dati
+SHOW_EDIT_TABLE_OPTIONS_TITLE_2 ==> Importazione dati
+SHOW_EDIT_TABLE_OPTIONS_TITLE_3 ==> Operazione sulla struttura
+SHOW_EDIT_TABLE_OPTIONS_TITLE_4 ==> Opzione della tabella
+SHOW_EDIT_TABLE_OPTIONS_EXPORT_XLS ==> Esporta XLS
+SHOW_EDIT_TABLE_OPTIONS_EXPORT_XLS_URL ==> Scaricare il file
+SHOW_EDIT_TABLE_OPTIONS_EXPORT_XLS_COLS ==> Esporta colonne XLS
+SHOW_EDIT_TABLE_OPTIONS_EXPORT_XLS_COLS_URL ==> Scaricare il file
+SHOW_EDIT_TABLE_OPTIONS_EXPORT_XLS_STRUCTURE ==> Esporta struttura XLS
+SHOW_EDIT_TABLE_OPTIONS_EXPORT_XLS_STRUCTURE_URL ==> Scaricare il file
+SHOW_EDIT_TABLE_OPTIONS_EXPORT_JSON ==> Esporta JSON
+SHOW_EDIT_TABLE_OPTIONS_EXPORT_JSON_URL ==> Scaricare il file
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_LABEL ==> I record saranno rilevati tramite il loro identificativo // colonna 'id' <br /><br />
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS ==> Importare record da file XLS
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_2 ==> Aggiornare i campi
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_URL ==> Caricare il file
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_URL_STRUCTURE ==> Scaricare il file di struttura
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_MODIFY_STRUCTURE ==> Modificare la struttura della tabella caricando un file XLS
+SHOW_EDIT_TABLE_OPTIONS_UPDATE_BY_XLS ==> Aggiornare i record da file XLS
+SHOW_EDIT_TABLE_OPTIONS_UPDATE_BY_XLS_URL ==> Caricare il file
+SHOW_EDIT_TABLE_OPTIONS_DELETE_BY_XLS ==> Eliminare record da file XLS
+SHOW_EDIT_TABLE_OPTIONS_ADD_COLUMN ==> Aggiungere una colonna
+SHOW_EDIT_TABLE_OPTIONS_REMOVE_COLUMN ==> Eliminare una colonna
+SHOW_EDIT_TABLE_OPTIONS_RENAME_COLUMN ==> Rinominare una colonna
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_COLUMNS ==> Importare colonne
+SHOW_EDIT_TABLE_OPTIONS_ACCESS_TO_PAGE ==> Accedere alla pagina
+SHOW_EDIT_TABLE_OPTIONS_RENAME_COLUMN_TITLE ==> Seleziona la colonna da rinominare
+SHOW_EDIT_TABLE_OPTIONS_RENAME_COLUMN_CHOOSE_COL ==> Nome della colonna
+SHOW_EDIT_TABLE_OPTIONS_RENAME_COLUMN_CONDITION ==> Spazi, maiuscole e accenti non sono accettati
+SHOW_EDIT_TABLE_OPTIONS_RENAME_COLUMN_NEW_COL ==> Nuovo nome
+SHOW_EDIT_TABLE_OPTIONS_RENAME_COLUMN_ACTION ==> Avvia la rinomina
+SHOW_EDIT_TABLE_OPTIONS_RENAME_COLUMN_LABEL_ERROR ==> Errore durante la rinomina
+SHOW_EDIT_TABLE_OPTIONS_RENAME_COLUMN_ERROR_1 ==> Il nome della colonna contiene caratteri non consentiti!
+SHOW_EDIT_TABLE_OPTIONS_RENAME_COLUMN_ERROR_2 ==> Il nome della colonna è sconosciuto!
+SHOW_EDIT_TABLE_OPTIONS_RENAME_COLUMN_ERROR_3 ==> Il nome della colonna è già in uso!
+SHOW_EDIT_TABLE_OPTIONS_RENAME_COLUMN_SUCCESS ==> Colonna rinominata con successo
+SHOW_EDIT_TABLE_OPTIONS_RENAME_TABLE ==> Rinominare la tabella
+SHOW_EDIT_TABLE_OPTIONS_DELETE_TABLE ==> Eliminare la tabella
+SHOW_EDIT_TABLE_OPTIONS_COPY_TABLE ==> Copiare la tabella
+SHOW_EDIT_TABLE_OPTIONS_EMPTY_TABLE ==> Svuotare la tabella
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_UPLOAD_TITLE ==> Caricare un file XLS
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_ERROR_TITLE ==> Errore durante il caricamento
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_ERROR_1 ==> Il file non contiene abbastanza righe
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_ERROR_2 ==> Il file non contiene abbastanza colonne
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_ERROR_3 ==> Il file contiene colonne sconosciute =>
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_ERROR_4 ==> Riga
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_ERROR_5 ==> Colonna
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_ERROR_6 ==> Il file contiene i seguenti errori => <br />
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_ERROR_7 ==> Errore alla riga 
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_ERROR_8 ==> <br /><br />Nessun record è stato aggiunto al database.
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_ERROR_9 ==> Il numero di colonne deve essere superiore a 0.
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_UPLOAD_SUCCESS_TITLE ==> Operazione completata
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_UPLOAD_SUCCESS_TEXT ==> Numero di elementi aggiunti nel database => 
+SHOW_EDIT_TABLE_OPTIONS_DELETE_BY_XLS_TITLE ==> Caricare un file XLS contenente una colonna 'id' per i record da eliminare
+SHOW_EDIT_TABLE_OPTIONS_DELETE_BY_XLS_ERROR_TITLE ==> Errore durante il caricamento
+SHOW_EDIT_TABLE_OPTIONS_DELETE_BY_XLS_ERROR_1 ==> Il file non contiene abbastanza righe
+SHOW_EDIT_TABLE_OPTIONS_DELETE_BY_XLS_ERROR_2 ==> Il file non contiene abbastanza colonne
+SHOW_EDIT_TABLE_OPTIONS_DELETE_BY_XLS_ERROR_3 ==> Il file non contiene una colonna 'id'
+SHOW_EDIT_TABLE_OPTIONS_DELETE_BY_XLS_ERROR_4 ==> Il file non contiene informazioni nella colonna 'id'
+SHOW_EDIT_TABLE_OPTIONS_DELETE_BY_XLS_ERROR_5 ==> ID non presente nel database => 
+SHOW_EDIT_TABLE_OPTIONS_DELETE_BY_XLS_ERROR_6 ==> alla riga 
+SHOW_EDIT_TABLE_OPTIONS_DELETE_BY_XLS_ERROR_7 ==> Errore per il record con ID
+SHOW_EDIT_TABLE_OPTIONS_DELETE_BY_XLS_ERROR_8 ==> Il file contiene i seguenti errori => <br />
+SHOW_EDIT_TABLE_OPTIONS_DELETE_BY_XLS_SUCCESS_TITLE ==> Operazione completata
+SHOW_EDIT_TABLE_OPTIONS_DELETE_BY_XLS_SUCCESS_TEXT ==> Numero di elementi eliminati nel database => 
+SHOW_EDIT_TABLE_OPTIONS_UPDATE_BY_XLS_TITLE ==> Caricare un file XLS contenente una colonna 'id' per i record da aggiornare
+SHOW_EDIT_TABLE_OPTIONS_UPDATE_BY_XLS_ERROR_TITLE ==> Errore durante il caricamento
+SHOW_EDIT_TABLE_OPTIONS_UPDATE_BY_XLS_ERROR_1 ==> Il file non contiene abbastanza righe
+SHOW_EDIT_TABLE_OPTIONS_UPDATE_BY_XLS_ERROR_2 ==> Il file non contiene abbastanza colonne (minimo 2: id e un altro campo)
+SHOW_EDIT_TABLE_OPTIONS_UPDATE_BY_XLS_ERROR_3 ==> Il file non contiene una colonna 'id'
+SHOW_EDIT_TABLE_OPTIONS_UPDATE_BY_XLS_ERROR_4 ==> Il file non contiene informazioni nella colonna 'id'
+SHOW_EDIT_TABLE_OPTIONS_UPDATE_BY_XLS_ERROR_5 ==> Il file contiene colonne sconosciute =>
+SHOW_EDIT_TABLE_OPTIONS_UPDATE_BY_XLS_ERROR_6 ==> ID non presente nel database => 
+SHOW_EDIT_TABLE_OPTIONS_UPDATE_BY_XLS_ERROR_7 ==> Errore per il record alla riga ==> 
+SHOW_EDIT_TABLE_OPTIONS_UPDATE_BY_XLS_ERROR_8 ==> Riga
+SHOW_EDIT_TABLE_OPTIONS_UPDATE_BY_XLS_ERROR_9 ==> Colonna
+SHOW_EDIT_TABLE_OPTIONS_UPDATE_BY_XLS_ERROR_10 ==> Il file contiene i seguenti errori => <br />
+SHOW_EDIT_TABLE_OPTIONS_UPDATE_BY_XLS_ERROR_11 ==> <br /><br />Nessun record è stato aggiunto al database.
+SHOW_EDIT_TABLE_OPTIONS_UPDATE_BY_XLS_SUCCESS_TITLE ==> Operazione completata
+SHOW_EDIT_TABLE_OPTIONS_UPDATE_BY_XLS_SUCCESS_TEXT ==> Numero di elementi aggiornati nel database => 
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_MODIFY_STRUCTURE ==> Caricare un file XLS per aggiungere colonne
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_MODIFY_STRUCTURE_LABEL ==> La prima riga contiene il nome della colonna, la seconda il tipo, la terza (opzionale) la dimensione.
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_MODIFY_STRUCTURE_LABEL_TYPES ==> I tipi disponibili sono ==> INTEGER, VARCHAR, TEXT, FLOAT, DOUBLE, BOOL, DATE, DATETIME, TIMESTAMP, TIME, YEAR, ENUM, GEOMETRY, LINESTRING, POLYGON, MULTIPOINT, MULTILINESTRING, RASTER.
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_MODIFY_STRUCTURE_ERROR_1 ==> Il file non contiene abbastanza righe
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_MODIFY_STRUCTURE_ERROR_2 ==> Il file non contiene abbastanza colonne (3 obbligatorie ==> col_name, col_type, col_length)
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_MODIFY_STRUCTURE_ERROR_3 ==> Il file contiene campi già presenti nella tabella
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_MODIFY_STRUCTURE_ERROR_4 ==> Il file contiene nomi di campo non conformi alla tabella
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_MODIFY_STRUCTURE_ERROR_5 ==> Il file contiene tipi non accettati.
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_MODIFY_STRUCTURE_ERROR_6 ==> Il file contiene dimensioni non accettate.
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_MODIFY_STRUCTURE_ERROR_7 ==> Il file non contiene le colonne obbligatorie ==> col_name, col_type, col_length
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_MODIFY_STRUCTURE_ERROR_8 ==> Si è verificato un errore nell'inizializzazione di un campo alla riga 
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_MODIFY_STRUCTURE_ERROR_9 ==> Nessun campo può essere aggiunto
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_MODIFY_STRUCTURE_ERROR_10 ==> Si è verificato un errore nel database.
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_MODIFY_STRUCTURE_TITLE ==> Operazione completata
+SHOW_EDIT_TABLE_OPTIONS_IMPORT_XLS_MODIFY_STRUCTURE_TEXT ==> Numero di colonne aggiunte alla tabella => 
+SHOW_EDIT_TABLE_OPTIONS_REMOVE_COLUMN_TITLE ==> Selezionare la colonna da eliminare
+SHOW_EDIT_TABLE_OPTIONS_REMOVE_COLUMN_NEW_COL ==> Nome della colonna
+SHOW_EDIT_TABLE_OPTIONS_REMOVE_COLUMN_ACTION ==> Avviare l'eliminazione
+SHOW_EDIT_TABLE_OPTIONS_REMOVE_COLUMN_LABEL_ERROR ==> Errore durante l'eliminazione
+SHOW_EDIT_TABLE_OPTIONS_REMOVE_COLUMN_ERROR_1 ==> Il nome della colonna è sconosciuto!
+SHOW_EDIT_TABLE_OPTIONS_REMOVE_COLUMN_SUCCESS ==> Colonna eliminata correttamente
+SHOW_EDIT_TABLE_OPTIONS_RENAME_TABLE_TITLE ==> Inserire il nuovo nome della tabella
+SHOW_EDIT_TABLE_OPTIONS_RENAME_TABLE_FIELD ==> Nome della tabella
+SHOW_EDIT_TABLE_OPTIONS_RENAME_TABLE_CONDITION ==> Spazi, maiuscole e accenti non sono accettati.
+SHOW_EDIT_TABLE_OPTIONS_RENAME_TABLE_LABEL_ERROR ==> Errore durante la rinomina
+SHOW_EDIT_TABLE_OPTIONS_RENAME_TABLE_ERROR_1 ==> Il nome della tabella contiene caratteri non accettati!
+SHOW_EDIT_TABLE_OPTIONS_RENAME_TABLE_ERROR_2 ==> Il nome della tabella è già in uso.
+SHOW_EDIT_TABLE_OPTIONS_RENAME_TABLE_SUCCESS ==> Tabella rinominata con successo
+SHOW_EDIT_TABLE_OPTIONS_COPY_TABLE_TITLE ==> Inserire il nome della tabella di destinazione
+SHOW_EDIT_TABLE_OPTIONS_COPY_TABLE_FIELD ==> Nome della tabella
+SHOW_EDIT_TABLE_OPTIONS_COPY_TABLE_CONDITION ==> Spazi, maiuscole e accenti non sono accettati.
+SHOW_EDIT_TABLE_OPTIONS_COPY_COLUMN_ACTION ==> Avviare la copia
+SHOW_EDIT_TABLE_OPTIONS_COPY_TABLE_SUCCESS ==> Copia della tabella riuscita
+SHOW_EDIT_TABLE_OPTIONS_COPY_TABLE_ERROR ==> Errore durante la copia
+SHOW_EDIT_TABLE_OPTIONS_COPY_TABLE_ERROR_1 ==> Il nome della tabella contiene caratteri non accettati!
+SHOW_EDIT_TABLE_OPTIONS_COPY_TABLE_ERROR_2 ==> Il nome della tabella è già in uso.
+SHOW_EDIT_TABLE_OPTIONS_COPY_TABLE_TITLE_2 ==> Vuoi copiare anche i dati?
+SHOW_EDIT_TABLE_OPTIONS_COPY_COLUMN_ACTION_2 ==> Avviare l'importazione dei dati
+SHOW_EDIT_TABLE_OPTIONS_DELETE_TABLE_TITLE ==> Vuoi eliminare la tabella?
+SHOW_EDIT_TABLE_OPTIONS_DELETE_TABLE_ACTION ==> Avviare l'eliminazione!
+SHOW_EDIT_TABLE_OPTIONS_DELETE_TABLE_SUCCESS ==> Operazione riuscita!
+SHOW_EDIT_TABLE_OPTIONS_DELETE_TABLE_SUCCESS_MESSAGE ==> L'eliminazione della tabella è stata completata con successo.
+SHOW_EDIT_TABLE_OPTIONS_DELETE_TABLE_ERROR ==> Errore durante l'operazione!
+SHOW_EDIT_TABLE_OPTIONS_DELETE_TABLE_SUCCESS_TITLE ==> Torna al pannello del database
+SHOW_EDIT_TABLE_OPTIONS_DELETE_TABLE_SUCCESS_LINK ==> Torna al pannello del database
+SHOW_EDIT_TABLE_OPTIONS_EMPTY_TABLE_TITLE ==> Vuoi svuotare la tabella?
+SHOW_EDIT_TABLE_OPTIONS_EMPTY_TABLE_TITLE_2 ==> La tabella attualmente contiene 
+SHOW_EDIT_TABLE_OPTIONS_EMPTY_TABLE_TITLE_3 ==> elemento(i).
+SHOW_EDIT_TABLE_OPTIONS_EMPTY_TABLE_ACTION ==> Avviare lo svuotamento!
+SHOW_EDIT_TABLE_OPTIONS_EMPTY_TABLE_SUCCESS ==> Operazione riuscita!
+SHOW_EDIT_TABLE_OPTIONS_EMPTY_TABLE_SUCCESS_MESSAGE ==> Lo svuotamento della tabella è stato completato con successo.
+SHOW_EDIT_TABLE_OPTIONS_EMPTY_TABLE_ERROR ==> Errore durante l'operazione!
+SHOW_EDIT_TABLE_OPTIONS_EMPTY_TABLE_SUCCESS_TITLE ==> Torna al pannello del database
+SHOW_EDIT_TABLE_OPTIONS_EMPTY_TABLE_SUCCESS_LINK ==> Torna al pannello del database
+SHOW_STRUCTURE_TABLE_IN_TABLE_TITLE ==> Struttura attuale della tabella
+SHOW_ALL_TABLES_IN_DB_TITLE ==> Elenco delle tabelle nel database
+SHOW_EDIT_TABLE_ADD_ELEMENT_TITLE ==> Elemento aggiunto
+SHOW_EDIT_TABLE_MODIFY_TITLE ==> Modifica registrata
+SHOW_EDIT_TABLE_MODIFY_1 ==> Il record è stato eliminato dal database.<br />
+SHOW_EDIT_TABLE_MODIFY_2 ==> Il record è stato modificato nel database.<br /><br />Dati modificati =><br />
+SHOW_EDIT_TABLE_MODIFY_3 ==> Il record è stato aggiunto correttamente al database.
+SHOW_EDIT_TABLE_MODIFY_4 ==> Il record è stato duplicato correttamente nel database.
+SHOW_EDIT_TABLE_NO_MODIFY_TITLE ==> Nessuna modifica
+SHOW_EDIT_TABLE_BUTTON_SAVE ==> Salvare
+SHOW_EDIT_TABLE_BUTTON_DELETE ==> Eliminare
+SHOW_EDIT_TABLE_BUTTON_IMPERSONATE ==> Impersona utente
+SHOW_EDIT_TABLE_BUTTON_MSG_SURE ==> Sei sicuro di voler continuare?
+SHOW_EDIT_TABLE_BUTTON_MSG_YES ==> Sì
+SHOW_EDIT_TABLE_BUTTON_MSG_NO ==> Annulla
+SHOW_ALL_TABLES_NEW_TABLE ==> Creazione di una tabella
+SHOW_ALL_TABLES_NEW_TABLE_TITLE ==> Inserisci il nome della nuova tabella
+SHOW_ALL_TABLES_NEW_TABLE_LABEL_1 ==> Nome della tabella
+SHOW_ALL_TABLES_NEW_TABLE_LABEL_2 ==> Spazi, maiuscole e accenti non sono accettati
+SHOW_ALL_TABLES_NEW_TABLE_BUTTON_LABEL ==> Avviare la creazione
+SHOW_ALL_TABLES_NEW_TABLE_LABEL_ERROR ==> Errore durante la creazione della tabella
+SHOW_ALL_TABLES_NEW_TABLE_LABEL_ERROR_1 ==> Il nome della tabella contiene caratteri non accettati!
+SHOW_ALL_TABLES_NEW_TABLE_LABEL_ERROR_2 ==> Il nome della tabella è già in uso
+SHOW_ALL_TABLES_NEW_TABLE_SUCCESS ==> Operazione completata con successo
+SHOW_ALL_TABLES_NEW_TABLE_SUCCESS_1 ==> La tabella 
+SHOW_ALL_TABLES_NEW_TABLE_SUCCESS_2 ==> è stata inserita correttamente nel database
+SHOW_ALL_TABLES_NEW_TABLE_SUCCESS_BUTTON ==> Consultare le opzioni della nuova tabella!
+#///////////////////////////////////////////////////////////////////////////////
+
+################################################################################
+# PRIVILEGES ACTIONS
+################################################################################
+KAPP_USER_COL_GROUPS_TITLE ==> Gruppi
+KAPP_USER_COL_DELETE_TITLE ==> Eliminare un Utente
+KAPP_USER_COL_RESET_TITLE ==> Reimpostare una Password
+KAPP_USER_BTN_RESET_TITLE ==> Reimpostare la password
+KAPP_USER_LIST_TITLE ==> Elencare gli Utenti
+########### EDIT GROUP ###########
+KAPP_GROUP_LIST_TITLE ==> Elencare i Gruppi
+KAPP_GROUP_MODIFICATIONS_ERROR_TITLE ==> Errore durante l'inserimento
+KAPP_GROUP_MODIFICATIONS_ERROR_1 ==> ID non valido!
+KAPP_GROUP_MODIFICATIONS_ERROR_2 ==> Etichetta non valida!
+KAPP_GROUP_MODIFICATIONS_ERROR_3 ==> Descrizione non valida!
+KAPP_GROUP_MODIFICATIONS_OK_TITLE ==> Successo
+KAPP_GROUP_MODIFICATIONS_OK_MSG ==> Le informazioni sono state aggiornate correttamente
+KAPP_GROUP_MODIFICATIONS_ERROR_MSG ==> L'aggiornamento non è stato effettuato
+KAPP_GROUP_LABEL_TITLE ==> Modificare le mie informazioni
+KAPP_GROUP_LABEL_BUTTON ==> Salvare le modifiche
+KAPP_GROUP_LABEL_ID ==> Identificativo
+KAPP_GROUP_LABEL_LABEL ==> Etichetta
+KAPP_GROUP_LABEL_DESCRIPTION ==> Descrizione
+KAPP_GROUP_LABEL_CREA ==> Data di Creazione
+KAPP_GROUP_LABEL_MODIF ==> Data di Modifica
+KAPP_GROUP_COL_DELETE_TITLE ==> Eliminare un Gruppo
+KAPP_MENU_PRIVILEGES ==> Privilegi
+KAPP_MENU_USERS ==> Utenti
+KAPP_MENU_GROUPS ==> Gruppi
+KAPP_USER_MODIFICATIONS_MSSG_DELETE_1 ==> Stai per eliminare l'utente n°
+KAPP_USER_MODIFICATIONS_MSSG_DELETE_2 ==> Continuare?
+KAPP_USER_MODIFICATIONS_MSSG_RESEND_PASS_1 ==> Stai per reimpostare la password dell'utente n°
+KAPP_USER_MODIFICATIONS_MSSG_RESEND_PASS_2 ==> Continuare?
+KAPP_USER_IMPERSONATE_MSSG ==> Si desidera passare all'account di questa persona?
+KAPP_USER_MODIFICATIONS_CONTINUE ==> Continuare
+KAPP_USER_MODIFICATIONS_CANCEL ==> Annullare
+KAPP_CONNECTIONS_LIST_TITLE ==> Cronologia degli accessi
+KAPP_CONNECTIONS_LIST_TITLE_TILE ==> Date di accesso degli utenti con i relativi indirizzi IP
+
+################################################################################
+# GDA ACTIONS
+################################################################################
+GDA_ENTITY ==> Entità
+GDA_TIME_INTER ==> Intervallo di tempo
+GDA_SPECIFIC_FIELD ==> Campo specifico
+GDA_AUTHOR ==> Autore
+GDA_COLLECTION ==> Collezione
+GDA_DOMAIN ==> Dominio
+GDA_MISSION ==> Missione
+GDA_NATURE ==> Natura
+GDA_COUNTRY ==> Paese
+GDA_PERIOD ==> Periodo
+GDA_REGION ==> Regione
+GDA_SECTOR ==> Settore
+GDA_SITE ==> Sito
+GDA_TAG ==> Tag
+GDA_TYPE ==> Tipo
+GDA_INCLUDE ==> Contiene
+GDA_STRICT ==> Rigoroso
+GDA_BEGIN_WITH ==> Inizia con
+GDA_END_WITH ==> Termina con
+GDA_YES ==> Sì
+GDA_NO ==> No
+GDA_BACK_TO_LIST ==> Torna alla lista
+#///////////////////////////////////////////////////////////////////////////////
+
+################################################################################
+# UPLOAD COMPONENTS
+################################################################################
+COMP_KUPLOAD_ERROR_1 ==> La cartella di caricamento non esiste => 
+COMP_KUPLOAD_FILE_LABEL ==> Trascina // rilascia un file
+COMP_KUPLOAD_FILES_LABEL ==> Trascina // rilascia file
+COMP_KUPLOAD_EXTENSION_ACCEPTED ==> Estensione(i) accettata(e) &#58;
+COMP_KUPLOAD_LABEL_START ==> Nessun file da caricare al momento
+COMP_KUPLOAD_BUTTON_START ==> Avvia il caricamento
+COMP_KUPLOAD_STATUS_1 ==> Stato
+COMP_KUPLOAD_STATUS_2 ==> In attesa
+COMP_KUPLOAD_STATUS_3 ==> Caricamento in corso...
+COMP_KUPLOAD_STATUS_4 ==> Annullato dall'utente
+COMP_KUPLOAD_STATUS_5 ==> Caricamento completato
+COMP_KUPLOAD_ERROR_1 ==> Si è verificato un errore, controlla i messaggi di errore.
+COMP_KUPLOAD_ERROR_2 ==> Si è verificato un errore!
+COMP_KUPLOAD_ERROR_3 ==> Si prega di caricare prima i file!!
+#///////////////////////////////////////////////////////////////////////////////
+
+################################################################################
+# GENERIC ACTIONS
+################################################################################
+GA_OPE_TERMINATE ==> Operazione completata con successo
+GA_OPE_DELETE_SUCCESS ==> Eliminazione riuscita!
+GA_OPE_DELETE_ERROR ==> Errore durante l'eliminazione &#58;
+GA_OPE_DELETE_ERROR_USED ==> L'elemento è ancora in uso, non è possibile eliminarlo. Tabella =>
+GA_OPE_ID ==> Elemento con identificativo => 
+GA_OPE_NOT_FOUND ==> non trovato!
+GA_OPE_BACK_TO_LIST ==> Torna alla lista!
+GA_OPE_ERROR ==> Errore
+GA_OPE_INFORMATION ==> Informazione
+GA_OPE_NOT_CORRECT ==> non è corretto!
+GA_OPE_FIELD ==> Il campo => 
+GA_OPE_NOT_EMPTY ==> non può essere vuoto! 
+GA_OPE_FIELDS ==> I campi
+GA_OPE_NOT_EMPTIES ==> non possono essere vuoti! 
+GA_OPE_SUPERIOR_ZERO ==> deve essere superiore a zero!
+GA_OPE_NO_MODIFICATION_DETECTED ==> Nessuna modifica rilevata.
+GA_OPE_TERMINATE ==> Operazione completata con successo
+GA_OPE_EDIT ==> Modifica
+GA_OPE_BACK_PAGE ==> Pagina precedente
+GA_OPE_MODIFY ==> Modificare
+GA_OPE_SAVE ==> Salvare
+KAPP_MENU_SYSTEM ==> Sistema
+KAPP_MENU_CMS ==> CMS
+
+################################################################################
+# LANGUAGE UI
+################################################################################
+LA_TITLE ==> Impostazioni della lingua
+
+################################################################################
+# KCMS Manage
+################################################################################
+
+KCMS_MANAGE_TITLE ==> Gestione CMS
+KCMS_MANAGE_LABEL ==> Scegliere il tipo di entità grafica che si desidera modificare:
+
+# Pagina dei template
+KTEMPLATE_TITLE ==> Gestione dei template
+KTEMPLATE_CREATION ==> Aggiungi un template
+KTEMPLATE_BTN_COPY ==> Copia
+KTEMPLATE_BTN_DEL ==> Elimina
+KTEMPLATE_BTN_REN ==> Rinomina
+KTEMPLATE_BTN_APPLY ==> Applica
+KTEMPLATE_BTN_SUCCESS ==> Applicato!
+KTEMPLATE_BTN_MODIFY ==> Modifica
+KTEMPLATE_TAB_COL_NAME ==> Nome
+KTEMPLATE_TAB_COL_ACTIONS ==> Azioni
+KTEMPLATE_TAB_COL_SELECTION ==> Selezione
+
+# Pop up 
+KTEMPLATE_POP_UP_COPY ==> Si desidera copiare questo file?
+KTEMPLATE_POP_UP_DELETE ==> Si desidera eliminarlo?
+KTEMPLATE_POP_UP_NAME ==> Si desidera rinominare il template?
+KTEMPLATE_POP_UP_ACTIVATE ==> Si desidera attivare questo template?
+KTEMPLATE_ANSWER_YES ==> Sì
+KTEMPLATE_ANSWER_NO ==> No
+
+# Pagina di creazione del template
+KTEMPLATE_TITLE_CREATION ==> Creazione dei template
+KTEMPLATE_NAME ==> Nome del template:
+KTEMPLATE_EMPTY_NAME ==> Nome file vuoto
+KTEMPLATE_EXISTING ==> Il template esiste già.
+KTEMPLATE_SUCCESS_TEMPLATE ==> Template creato con successo.
+KTEMPLATE_ERROR_NAME_TEMPLATE ==> Errore durante la creazione del template.
+
+# Pagina di rinomina
+KTEMPLATE_NEW_COPY_NAME ==> Nuovo nome del template:
+KTEMPLATE_TITLE_RENAME ==> Rinomina un template
+KTEMPLATE_NO_TEMPLATE_SELECTED ==> Nessun template selezionato per la rinomina
+KTEMPLATE_NEW_NAME ==> Il nuovo nome non può essere vuoto.
+KTEMPLATE_EXISTED_NAME_TEMPLATE ==> Esiste già un template con questo nome.
+KTEMPLATE_NO_EXISTING ==> Il template non esiste.
+KTEMPLATE_SUCCESS_RENAME ==> Template rinominato con successo.
+
+# Pagina di copia
+KTEMPLATE_TITLE_COPY ==> Copia dei template
+KTEMPLATE_ERROR_COPY ==> Errore durante la copia:
+KTEMPLATE_NEW_COPY_NAME ==> Nuovo nome del template:
+KTEMPLATE_NO_COPY_SELECTED ==> Nessun template selezionato per la copia.
+KTEMPLATE_SUCCESS_COPY ==> Template copiato con successo in
+
+# Pagina di eliminazione
+KTEMPLATE_TITLE_DELETE ==> Eliminazione dei template
+KTEMPLATE_SUCCESS_DELETED_FILE ==> Questo template è stato eliminato correttamente
+KTEMPLATE_DELETE_DOESNT_EXIST_ERROR ==> Errore durante l'eliminazione del template perché la cartella non esiste più
+KTEMPLATE_DELETE_ERROR ==> Errore durante l'eliminazione del template
+
+# Tutte le pagine dei template
+KTEMPLATE_PREVIOUS_PAGE ==> Pagina precedente
+KTEMPLATE_CONFIRM_BUTTON ==> Conferma
+KTEMPLATE_FILTER_NAME ==> Utilizzare solo lettere, numeri, trattini o underscore...
+
+# Pagina di modifica, editing e salvataggio
+KTEMPLATE_MODIFICATIONS_TITLE ==> Modifica dei template
+KTEMPLATE_CONTENT ==> Contenuto del template:
+KTEMPLATE_NONE_SELECTED_FILE ==> Nessuna cartella di template selezionata.
+NONE_SELECTED_TEMPLATE_NAME ==> Nessun nome di template selezionato.
+NONE_CONTENT_FILE ==> Nessun contenuto del file trovato.
+NOT_FOUND_TEMPLATE ==> Il file non è stato trovato nel template
+SAVING_FILE ==> Salvataggio del template
+ERROR_SAVE_FILE ==> Errore durante il salvataggio del file.
+SUCCESS_SAVE_FILE ==> File salvato con successo!
+NONE_FILE_SELECTED ==> Nessun file template selezionato.
+SAVE_BUTTON ==> Salva
+EDIT_FILE_TEMPLATE ==> Modifica file template
+
+# Pagina di attivazione 
+KTEMPLATE_TITLE_ACTIVATE ==> Attivazione di un template
+KTEMPLATE_INVALID_FILE ==> Il template selezionato non esiste o non è valido.
+KTEMPLATE_NONE_ACTIVATED ==> Nessun template è attivato
+KTEMPLATE_SUCCESS_ACTIVATION ==> Il template è stato attivato con successo
