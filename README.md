@@ -1,7 +1,7 @@
 # Kanon
 
 <p align="center"><a href="https://kanon.efa.gr/" target="_blank">
-    <img src="https://kanon.efa.gr/img/Kanov_logo2.png" alt="Kanon Logo">
+    <img src="https://kanon.efa.gr/img/Kanov_logo2.png" height="200px" alt="Kanon Logo">
 </a></p>
 
 ## Description
